@@ -19,13 +19,19 @@ design:
 
 #
 
+#
+
 2. Shen, Jianfu, Eddie CM Hui, and Kwok Yuen Fan. **["The beta anomaly in the REIT market."](https://doi.org/10.1007/s11146-020-09784-3)** _The Journal of Real Estate Finance and Economics_ 63 (2021): 414-436.
 <div class="text-muted exp-meta">Abstract: The beta anomaly is only significant in the New REIT Era after 1993. The exposure of institutional investors to high-beta REITs could explain the beta anomaly.</div>
 
 #
 
+#
+
 3. Shen, Jianfu, Eddie CM Hui, and Kwok Yuen Fan. **["Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs."](https://doi.org/10.1007/s11146-020-09763-8)** _The Journal of Real Estate Finance and Economics_ 63 (2021): 122-142.
 <div class="text-muted exp-meta">Abstract: Real estate professionals detected the property bubble and foresaw the consequent financial crisis of 2007-2008. Insiders reduced their holdings significantly during the real estate boom period as early as 2004.</div>
+
+#
 
 #
 
@@ -38,8 +44,12 @@ design:
 
 #
 
+#
+
 2. Shen, J., **Fan, K.** , & Hung, Y. (2023). Developer's ESG Reputation Concern and Green Building Development.
 <div class="text-muted exp-meta">Abstract: Concerns about Environmental, Social, and Governance (ESG) reputation serve as an incentive for real estate developers to strive for a high quality of green building development.. </div>
+
+#
 
 #
 
@@ -48,8 +58,12 @@ design:
 
 #
 
+#
+
 4. Shen, J., Fan, K. , & Hui, E. (2022). Lobbying and Fossil Fuel Investment.
 <div class="text-muted exp-meta">Abstract: Political lobbying by fossil fuel companies not only increases investment in conventional energy sources but also contributes to higher pollution emissions. While such lobbying can significantly enhance the financial performance of these companies, it does not reduce their exposure to risks associated with climate change policies. </div>
+
+#
 
 #
 
@@ -58,13 +72,19 @@ design:
 
 #
 
+#
+
 6. Fan, K., Shen, J., Chang, X., & Hui, E. (2022). Political hierarchy and corporate environmental governance: Evidence from centralization of environmental administration in China.
 <div class="text-muted exp-meta">Abstract: The role of political hierarchy is pivotal in determining corporate environmental governance. However, this influence varies depending on the cost of regulatory compliance and the different levels within the political ranks. </div>
 
 #
 
+#
+
 7. Fan, K., Hui, E., & Shen, J. (2022). Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition? Evidence from industrial land conveyance in China.
 <div class="text-muted exp-meta">Abstract: Integration of environmental protection into the cadre evaluation system in China has deterred local officials from engaging in race-to-the-bottom competition in the industrial land markets. </div>
+
+#
 
 #
 

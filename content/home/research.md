@@ -15,7 +15,7 @@ design:
 ### Peer-reviewed Articles
 
 1. Peng, Daoju, et al. **["The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts."](https://doi.org/10.1007/s11146-022-09909-w)** _The Journal of Real Estate Finance and Economics_ (2022): 1-44.
-<div style="text-indent:50px" class="text-muted exp-meta">Abstract: REITs market reacts positively to the announcement of clawback adoption, especially when the clawback policy is strong. The clawback adoption improve the accounting quality and reduce empire-building behaviour of REITs.</div>
+<div style="padding-left:50px" class="text-muted exp-meta">Abstract: REITs market reacts positively to the announcement of clawback adoption, especially when the clawback policy is strong. The clawback adoption improve the accounting quality and reduce empire-building behaviour of REITs.</div>
 
 #
 

@@ -46,7 +46,7 @@ design:
 
 #
 
-2. Shen, J., **Fan, K.** , & Hung, Y. (2023). Developer's ESG Reputation Concern and Green Building Development.
+2. Shen, J., Fan, K., & Hung, Y. (2023). Developer's ESG Reputation Concern and Green Building Development.
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Concerns about Environmental, Social, and Governance (ESG) reputation serve as an incentive for real estate developers to strive for a high quality of green building development.. </div>
 
 #

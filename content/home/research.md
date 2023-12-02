@@ -53,7 +53,7 @@ design:
 
 #
 
-3. Fan, K. , Shen, J., Hui, E., & Cheng, L. (2022). Responsible Investing in the Real Estate Investment Trusts.
+3. Fan, K. , Shen, J., Hui, E., & Cheng, L. (2023). Responsible Investing in the Real Estate Investment Trusts. Submitted to _International Review of Financial Analysis_.
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Real estate investors tend to favor aspects related to social and corporate governance (SG) over environmental performance (E). This preference is often attributed to the fact that while environmental initiatives can negatively impact corporate fundamentals, strong social and governance practices are seen as supportive of a firm's fundamental strengths. </div>
 
 #
@@ -67,7 +67,7 @@ design:
 
 #
 
-5. Fan, K., Shen, J., Cheng, L., & Chan, K., & Hui, E. (2022). ESG Washing, Materiality and Pillar-mix Strategy: A REIT Perspective.
+5. Fan, K., Shen, J., Cheng, L., & Chan, K., & Hui, E. (2023). ESG Washing, Materiality and Pillar-mix Strategy: A REIT Perspective.
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Real Estate Investment Trusts (REITs) that inflate their overall Environmental, Social, and Governance (ESG) performance by emphasizing social and governance aspects, often at the expense of environmental performance, tend to attract more institutional investors and demonstrate stronger corporate fundamentals, despite contributing to increased greenhouse gas emissions. A long-short portfolio that leverages these strategic ESG practices can yield significant positive abnormal returns. </div>
 
 #

@@ -53,7 +53,7 @@ design:
 
 #
 
-3. Fan, K. , Shen, J., Hui, E., & Cheng, L. (2023). Responsible Investing in the Real Estate Investment Trusts. Submitted to _International Review of Financial Analysis_.
+3. Fan, K. , Shen, J., Hui, E., & Cheng, L. (2023). Responsible Investing in the Real Estate Investment Trusts. R&R at _International Review of Financial Analysis_.
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Real estate investors tend to favor aspects related to social and corporate governance (SG) over environmental performance (E). This preference is often attributed to the fact that while environmental initiatives can negatively impact corporate fundamentals, strong social and governance practices are seen as supportive of a firm's fundamental strengths. </div>
 
 #

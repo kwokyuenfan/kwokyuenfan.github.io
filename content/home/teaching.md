@@ -15,11 +15,12 @@ design:
 ### United International College(UIC)
 
 - FIN2023 Financial Management
-  • Teaching evaluation: 2023-2024 Sem 1: 4.79/5.00
-  •	Selected comments:
-    o	easy to understand
-    o	the class is well organized
-    o	interesting
+<div style="padding-left:50px" class="text-muted exp-meta"> - Teaching evaluation: 2023-2024 Sem 1: 4.79/5.00
+Selected comments:
+- easy to understand
+- the class is well organized
+- interesting</div>
+
 - FIN3053 Multinational Finance
   •	Teaching evaluation: 2023-2024 Sem 1: 4.93/5.00
   •	Selected comments:

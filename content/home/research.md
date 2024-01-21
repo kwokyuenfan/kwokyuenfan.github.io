@@ -83,7 +83,7 @@ design:
 
 #
 
-7. Fan, K., Hui, E., & Shen, J. (2022). Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition? Evidence from industrial land conveyance in China.
+7. Fan, K., Hui, E., & Shen, J. (2022). **[Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition? Evidence from industrial land conveyance in China.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4652055)**
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Integration of environmental protection into the cadre evaluation system in China has deterred local officials from engaging in race-to-the-bottom competition in the industrial land markets. </div>
 
 #

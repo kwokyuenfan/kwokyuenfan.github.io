@@ -47,7 +47,7 @@ design:
 
 #
 
-2. Shen, J., Fan, K., Hui, E., & Ho, S. (2024). The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong. conditionally accepted by _Journal of Real Estate Research_.
+2. Shen, J., Fan, K., Hui, E., & Ho, S. (2024). The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong. Conditionally accepted by _Journal of Real Estate Research_.
 <div style="padding-left:50px" class="text-muted exp-meta">Best Conference Paper Prize for China Real Estate Academic Annual Conference (中国房地产学术年会) 2023. </div>
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Sustainability in property management holds significant value for property buyers, particularly home buyers and foreign investors. These buyers tend to prioritize the social and governance aspects of a property manager's operations over environmental sustainability. </div>
 

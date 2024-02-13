@@ -23,7 +23,7 @@ design:
 	
 	- *The class is well-organized.*  
 	
-	- *Interesting.*  
+	- *Interesting!*  
 
 - FIN3053 Multinational Finance  
 

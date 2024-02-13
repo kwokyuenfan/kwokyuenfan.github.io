@@ -47,7 +47,7 @@ design:
 
 #
 
-2. Shen, J., Fan, K., Hui, E., & Ho, S. (2023). The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong. R&R at _Journal of Real Estate Research_.
+2. Shen, J., Fan, K., Hui, E., & Ho, S. (2024). The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong. conditionally accepted by _Journal of Real Estate Research_.
 <div style="padding-left:50px" class="text-muted exp-meta">Best Conference Paper Prize for China Real Estate Academic Annual Conference (中国房地产学术年会) 2023. </div>
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Sustainability in property management holds significant value for property buyers, particularly home buyers and foreign investors. These buyers tend to prioritize the social and governance aspects of a property manager's operations over environmental sustainability. </div>
 
@@ -62,7 +62,7 @@ design:
 
 #
 
-4. Fan, K., Shen, J., Cheng, L., & Chan, K., & Hui, E. (2023). ESG Washing, Materiality and Pillar-mix Strategy: A REIT Perspective.
+4. Fan, K., Shen, J., Cheng, L., & Chan, K., & Hui, E. (2023). ESG Washing, Materiality and Pillar-mix Strategy: A REIT Perspective. Submitted to _Management Science_.
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Real Estate Investment Trusts (REITs) that inflate their overall Environmental, Social, and Governance (ESG) performance by emphasizing social and governance aspects, often at the expense of environmental performance, tend to attract more institutional investors and demonstrate stronger corporate fundamentals, despite contributing to increased greenhouse gas emissions. A long-short portfolio that leverages these strategic ESG practices can yield significant positive abnormal returns. </div>
 
 #

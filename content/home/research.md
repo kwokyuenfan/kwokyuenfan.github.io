@@ -22,7 +22,7 @@ design:
 
 #
 
-2. Peng, D., Shen, J., Fung, S. Y. K., Hui, E., & Fan, K. (2024). [The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts.] (https://doi.org/10.1007/s11146-022-09909-w) *The Journal of Real Estate Finance and Economics*, *68*, 274–317.
+2. Peng, D., Shen, J., Fung, S. Y. K., Hui, E., & Fan, K. (2024). [The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts.](https://doi.org/10.1007/s11146-022-09909-w) *The Journal of Real Estate Finance and Economics*, *68*, 274–317.
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: REITs market reacts positively to the announcement of clawback adoption, especially when the clawback policy is strong. The clawback adoption improve the accounting quality and reduce empire-building behaviour of REITs.</div>
 
 #

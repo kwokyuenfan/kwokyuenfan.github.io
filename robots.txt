@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://kwokyuenfan.github.io/sitemap.xml

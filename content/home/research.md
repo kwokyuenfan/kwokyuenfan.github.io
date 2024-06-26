@@ -14,7 +14,7 @@ design:
 
 ### Peer-reviewed Articles
 
-1. Shen, J., Fan, K., Hui, E., & Ho, S. (2024). The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong. _Journal of Real Estate Research_, Forthcoming.
+1. Shen, J., Fan, K., Hui, E., & Ho, S. (2024). [The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong.](https://doi.org/10.1080/08965803.2024.2346413) *Journal of Real Estate Research*, Forthcoming.
 <div style="padding-left:50px" class="text-muted exp-meta">Best Conference Paper Prize for China Real Estate Academic Annual Conference (中国房地产学术年会) 2023. </div>
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Sustainability in property management holds significant value for property buyers, particularly home buyers and foreign investors. These buyers tend to prioritize the social and governance aspects of a property manager's operations over environmental sustainability. </div>
 
@@ -55,14 +55,14 @@ design:
 
 #
 
-2. Shen, J., Peng, D., Hui, E., & Fan, K. (2024). Performance Measurability and Air Pollution Control: Evidence from a Quasi-experiment in China. Submitted to _Regional Studies_.
+2. Shen, J., Peng, D., Hui, E., & Fan, K. (2024). Performance Measurability and Air Pollution Control: Evidence from a Quasi-experiment in China. Submitted to _World Development_.
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Enhanced measurability for a high-powered incentive scheme elicits genuine efforts of local governments to curb air pollution but also induce dysfunctional “gaming the system” behavior. </div>
 
 #
 
 #
 
-3. Fan, K., Shen, J., Cheng, L., & Chan, K., & Hui, E. (2023). ESG Washing, Materiality and Pillar-mix Strategy: A REIT Perspective. Submitted to _Management Science_.
+3. Fan, K., Shen, J., Cheng, L., & Chan, K., & Hui, E. (2023). ESG Washing, Materiality and Pillar-mix Strategy: A REIT Perspective.
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Real Estate Investment Trusts (REITs) that inflate their overall Environmental, Social, and Governance (ESG) performance by emphasizing social and governance aspects, often at the expense of environmental performance, tend to attract more institutional investors and demonstrate stronger corporate fundamentals, despite contributing to increased greenhouse gas emissions. A long-short portfolio that leverages these strategic ESG practices can yield significant positive abnormal returns. </div>
 
 #
@@ -76,7 +76,7 @@ design:
 
 #
 
-5. Fan, K., Shen, J., Chang, X., & Hui, E. (2022). Political hierarchy and corporate environmental governance: Evidence from centralization of environmental administration in China.
+5. Fan, K., Shen, J., Chang, X., & Hui, E. (2022). **[Political hierarchy and corporate environmental governance: Evidence from centralization of environmental administration in China.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4726243)**
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: The role of political hierarchy is pivotal in determining corporate environmental governance. However, this influence varies depending on the cost of regulatory compliance and the different levels within the political ranks. </div>
 
 #
@@ -92,6 +92,18 @@ design:
 
 7. Shen, J., Fan, K., & Hung, Y. (2023). Developer's ESG Reputation Concern and Green Building Development.
 <div style="padding-left:50px" class="text-muted exp-meta">Abstract: Concerns about Environmental, Social, and Governance (ESG) reputation serve as an incentive for real estate developers to strive for a high quality of green building development.. </div>
+
+#
+
+#
+
+8. Fan, K., & Shen, J. (2024). Leverage constraints and financial manipulation.
+
+#
+
+#
+
+9. Lu, Y., Lu, W., Shen, J., Cheng, L., & Fan, K., & Shen, J. (2024). Selective ESG Strategies in REITs Performance: A Global Perspective.
 
 
 

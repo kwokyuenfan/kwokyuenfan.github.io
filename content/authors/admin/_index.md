@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 范国源
+title: 范國源
 
 # Name pronunciation (optional)
 name_pronunciation: "Kwok Yuen (Terry) Fan"
@@ -30,10 +30,10 @@ organizations:
 # Interests to show in About widget
 interests:
   - Sustainability
+  - Fintech
   - Corporate Finance
   - Political Economy
   - Real Estate
-  - Fintech
 
 # Education to show in About widget
 education:

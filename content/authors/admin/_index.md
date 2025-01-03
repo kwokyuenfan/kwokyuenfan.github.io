@@ -30,10 +30,8 @@ organizations:
 # Interests to show in About widget
 interests:
   - Sustainability
-  - Fintech
-  - Corporate Finance
-  - Political Economy
   - Real Estate
+  - Fintech
 
 # Education to show in About widget
 education:
@@ -147,5 +145,5 @@ social:
 highlight_name: true
 ---
 
-I am an assistant professor of economics and finance at the [Beijing Normal University – Hong Kong Baptist University United International College](https://uic.edu.cn/en/). I received my Ph.D. in Real Estate Economics from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/bre/). My research focuses on **Sustainability, Corporate Finance, Political Economy, Real Estate and Fintech**. I passed the _CFA Level III_ and _FRM Part II_ examinations and has several published papers in reputable journals such as the Journal of Real Estate Finance and Economics (SSCI, ABS 3, ABDC “A” journal).
+I am an assistant professor of economics and finance at the [Beijing Normal University – Hong Kong Baptist University United International College](https://uic.edu.cn/en/). I received my Ph.D. in Real Estate Economics from [Hong Kong Polytechnic University](https://www.polyu.edu.hk/bre/). My research focuses on **Sustainability, Real Estate Finance, and Fintech**. I passed the _CFA Level III_ and _FRM Part II_ examinations and has several published papers in reputable journals such as the International Review of Financial Analysis, Journal of Real Estate Finance and Economics and Journal of Real Estate Research.
 {style="text-align: justify;"}

@@ -1,160 +1,290 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kwok Yuen FAN",
+    "label": "Assistant Professor of Economics and Finance",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "kyfan@hsu.edu.hk",
+    "phone": "",
+    "url": "https://kwokyuenfan.github.io/",
+    "summary": "I am an assistant professor of economics and finance at the Hang Seng University of Hong Kong. I received my Ph.D. in Real Estate Economics from Hong Kong Polytechnic University. My research focuses on Sustainability, Real Estate Finance, and Fintech. I passed the CFA Level III and FRM Part II examinations and has several published papers in reputable journals such as the International Review of Financial Analysis, Journal of Real Estate Finance and Economics and Journal of Real Estate Research.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Hong Kong",
+      "countryCode": "HK",
+      "region": "Hong Kong"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Website",
+        "username": "kwokyuenfan",
+        "url": "https://kwokyuenfan.github.io/"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "The Hang Seng University of Hong Kong (HSUHK)",
+      "position": "Assistant Professor of Economics and Finance",
+      "url": "",
+      "startDate": "2025-09-01",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": []
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Beijing Normal-Hong Kong Baptist University (BNBU)",
+      "position": "Assistant Professor of Finance",
+      "url": "",
+      "startDate": "2023-09-01",
+      "endDate": "2025-08-31",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Deloitte Touche Tohmatsu",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-31",
+      "summary": "Industry Experience",
+      "highlights": []
+    },
+    {
+      "name": "Baidu",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-31",
+      "summary": "Industry Experience",
+      "highlights": []
+    },
+    {
+      "name": "GoGoX",
+      "position": "Intern",
+      "url": "",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-31",
+      "summary": "Industry Experience (Invested by Alibaba, Singapore Press Holdings, BOCOM International and Cyberport Macro Fund)",
+      "highlights": []
     }
   ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "The Hong Kong Polytechnic University",
+      "location": "Hong Kong, China",
+      "url": "https://www.polyu.edu.hk/bre/",
+      "area": "Real Estate Economics",
+      "studyType": "Ph.D.",
+      "startDate": "2020-09-01",
+      "endDate": "2023-08-31",
+      "score": "",
+      "courses": ["Dissertation: Institutional designs and environmental governance"]
+    },
+    {
+      "institution": "Nanyang Business School, Nanyang Technological University",
+      "location": "Singapore",
+      "url": "",
+      "area": "",
+      "studyType": "Visiting Research Student",
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lancaster University",
+      "location": "Lancaster, United Kingdom",
+      "url": "",
+      "area": "Advanced Financial Analysis",
+      "studyType": "M.Sc.",
+      "startDate": "2017-10-01",
+      "endDate": "2018-09-30",
+      "score": "Distinction",
+      "courses": []
+    },
+    {
+      "institution": "The Hang Seng University of Hong Kong",
+      "location": "Hong Kong, China",
+      "url": "",
+      "area": "Business Administration",
+      "studyType": "Bachelor of Business Administration",
+      "startDate": "2012-09-01",
+      "endDate": "2016-08-31",
+      "score": "",
+      "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "3rd IETI PhD Fellowship Award Winner",
+      "date": "2024-01-01",
+      "awarder": "IETI",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "title": "Best Conference Paper Prize",
+      "date": "2024-01-01",
+      "awarder": "China Real Estate Academic Annual Conference",
+      "url": "",
+      "summary": "Paper: An Institutional Perspective of Selective ESG Engagement"
+    },
+    {
+      "title": "Best Conference Paper Prize",
+      "date": "2023-01-01",
+      "awarder": "China Real Estate Academic Annual Conference",
+      "url": "",
+      "summary": "Paper: The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Ronald Coase Institute Workshop Alumni",
+      "date": "",
+      "issuer": "Ronald Coase Institute",
+      "url": "",
+      "icon": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "CFA Level III",
+      "date": "",
+      "issuer": "CFA Institute",
+      "url": "",
+      "icon": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "FRM Part II",
+      "date": "",
+      "issuer": "Global Association of Risk Professionals (GARP)",
+      "url": "",
+      "icon": ""
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Performance measurability, local government’s incentives, and regional air pollution reduction",
+      "publisher": "World Development",
+      "releaseDate": "2025-01-01",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "ESG components and equity returns: Evidence from real estate investment trusts",
+      "publisher": "International Review of Financial Analysis",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "The value of sustainable property management in real estate: Evidence from Hong Kong",
+      "publisher": "Journal of Real Estate Research",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "The valuation effect and consequences of clawback adoption in real estate investment trusts",
+      "publisher": "The Journal of Real Estate Finance and Economics",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs",
+      "publisher": "The Journal of Real Estate Finance and Economics",
+      "releaseDate": "2021-01-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "The beta anomaly in the REIT market",
+      "publisher": "The Journal of Real Estate Finance and Economics",
+      "releaseDate": "2021-01-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Why high-speed rail causes heterogeneous spatial patterns in firm innovation: Perspectives from intensive and extensive margins",
+      "publisher": "PloS one",
+      "releaseDate": "2024-01-01",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Real Estate Economics and Finance",
+      "level": "Expert",
+      "icon": "fa-solid fa-chart-line",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Land",
+        "Green buildings",
+        "Climate resilience"
       ]
+    },
+    {
+      "name": "Sustainability",
+      "level": "Expert",
+      "icon": "fa-solid fa-leaf",
+      "keywords": [
+        "ESG",
+        "Green finance",
+        "Greenwashing",
+        "Climate change"
+      ]
+    },
+    {
+      "name": "Corporate Finance",
+      "level": "Expert",
+      "icon": "fa-solid fa-building-columns",
+      "keywords": []
+    },
+    {
+      "name": "Data Science",
+      "level": "Expert",
+      "icon": "fas fa-chart-line",
+      "keywords": []
+    },
+    {
+      "name": "Python",
+      "level": "Advanced",
+      "icon": "fab fa-python",
+      "keywords": []
+    },
+    {
+      "name": "Stata",
+      "level": "Advanced",
+      "icon": "fas fa-magnifying-glass-chart",
+      "keywords": []
+    },
+    {
+      "name": "R",
+      "level": "Advanced",
+      "icon": "fab fa-r",
+      "keywords": []
+    },
+    {
+      "name": "Textual Analysis",
+      "level": "Intermediate",
+      "icon": "fas fa-comment-dots",
+      "keywords": []
+    },
+    {
+      "name": "SQL",
+      "level": "Basic",
+      "icon": "fas fa-database",
+      "keywords": []
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Basic",
+      "icon": "fas fa-robot",
+      "keywords": []
     }
   ],
   "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
-    },
     {
       "language": "English",
       "fluency": "Fluent",
@@ -163,38 +293,61 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Sustainability",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "keywords": []
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Real Estate",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
+    },
+    {
+      "name": "Fintech",
+      "icon": "fa-solid fa-tag",
+      "keywords": []
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Regulatory Arbitrage by Governments and Land Conveyance",
+      "summary": "The pollution haven hypothesis argues that polluting firms strategically respond to the imbalance in environmental regulations; and yet the role of local governments in facilitating the reallocation of polluting activities has not been examined. This study investigates the impact of local government’s strategical response induced by geographically imbalanced regulations on industrial land conveyance to polluting industries in China. Following the Clean Air Action 2013, counties bordering regions with stricter air pollution regulations conveyed more land to polluting industries than those that do not. In bordering counties, land conveyance prices were strategically manipulated, indicating that the increase in land allocation was driven by deliberate price reductions by local governments to attract polluting activities. The effect was more pronounced in counties with lower environmental attention and higher political ambitions among officials. Lastly, deliberate creation of pollution haven led to enhanced economic growth and exacerbated air pollution. These findings underscore the urgent need for coordinated policy efforts to address the unintended consequences of environmental regulation imbalances, thereby emphasizing the importance of the issue to the audience.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "An Institutional Perspective of Selective ESG Engagement",
+      "summary": "This study examines how institutional factors shape the selective engagement of environmental, social, and governance (ESG) practices in Real Estate Investment Trusts (REITs) across different regions. The resource-based view suggests that REITs may prioritize social and governance practices over environmental investment due to resource constraints. Analyzing 302 REITs from the U.S., Europe, and Asia (2012-2022), our study finds that institutional factors—environmental policy strictness and investor attitudes—lead to different outcomes: selective ESG strategies enhance profitability and market valuation in the U.S. but reduce them in Europe. These findings emphasize the critical role of institutional contexts in shaping corporate sustainability.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition? Evidence from industrial land conveyance in China",
+      "summary": "This study examines the impact of integration of environmental considerations into the political evaluations on the race-to-the-bottom competition in the land market. By analyzing over 250,000 industrial land transactions from 279 cities between 2007 and 2018, we find that local officials frequently reduced land prices to attract investment, particularly in regions with intense economic competition and when facing major political reviews. Our difference-in-differences analysis reveals that the introduction of environmental protection as a criterion in the cadre evaluation system in 2013 significantly mitigated the race-to-the-bottom competition in land conveyancing. Moreover, heightened environmental monitoring pressures have led local officials to be less inclined to sell industrial land at lower prices. This study contributes to the understanding of how political incentives and environmental policies interact to influence local officials’ resource allocation decisions, with implications for both environmental quality and economic performance. Our findings suggest that integrating environmental considerations into political evaluations can effectively reduce the race-to-the-bottom competition among local officials and promote sustainable development.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Lobbying and Fossil Fuel Investment",
+      "summary": "This study explores the impact of the lobbying activities of oil and gas companies on their corporate investment decisions. Using a sample of listed oil and gas companies in the U.S. from 2000 to 2019, this study finds that in comparison with non-lobbying firms, lobbying companies’ capital expenditures increase by 6.2% and their oil and gas reserves’ growth rate increases by 16.4% in the year following lobbying. The amount of lobbying expenditures is also positively associated with fossil fuel investments. The results remain robust when an instrumental variable approach is applied to address endogeneity concerns. Our plant-level analysis indicates that political lobbying by fossil fuel parent companies does not enhance abatement investment alongside conventional energy, but instead, it raises pollution emissions. Further investigation shows that lobbying activities significantly boost the financial performance of fossil fuel companies without reducing their political risks or exposure to climate change policy uncertainty. Taken together, this study suggests that lobbying improves the financial performance of oil and gas companies and leads to an increase in their fossil fuel investments.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Environmental Regulatory Independence and Corporate Environmental Performance",
+      "summary": "We examine the impact of environmental regulatory independence on corporate environmental performance. Before 2016, local and central state-owned enterprises (SOEs) in China headquartered in jurisdictions far from central government supervision had poor environmental performance. The 2016 environmental verticalization reform transferred the management authority of local Environmental Protection Bureaus (EPBs) from local governments to provincial EPBs. We find that local SOEs’ corporate environmental performance significantly improves as local EPBs gain more regulator independence. However, the reform did not affect the environmental performance of central SOEs, which often outrank provincial EPBs, or privately owned enterprises (POEs), which were already managed by local EPBs before the reform. Further analysis indicates that the improvement in corporate environmental performance depends upon local governments’ environmental attention and regulatory capture. Although local SOEs increased abatement investments, the reform does not negatively affect their revenue, profitability, and valuation. This study suggests that policymakers should consider political rankings to improve environmental governance and enhance transparency in regulatory processes to mitigate rent-seeking behaviors.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
     }
   ]
 }

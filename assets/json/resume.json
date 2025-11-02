@@ -24,11 +24,11 @@
   },
   "work": [
     {
-      "name": "The Hang Seng University of Hong Kong (HSUHK)",
+      "company": "The Hang Seng University of Hong Kong (HSUHK)",
       "position": "Assistant Professor of Economics and Finance",
       "url": "https://www.hsu.edu.hk/en/teaching-learning/academic-staff/?staffId=1279",
-      "startDate": "2025-09-01",
-      "endDate": "",
+      "startDate": "2023-09-01",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Lecturer, Urban and Real Estate Economics",
@@ -36,7 +36,7 @@
       ]
     },
     {
-      "name": "Beijing Normal-Hong Kong Baptist University (BNBU) United International College",
+      "company": "Beijing Normal-Hong Kong Baptist University (BNBU) United International College",
       "position": "Assistant Professor of Finance",
       "url": "https://uic.edu.cn/en/",
       "startDate": "2023-09-01",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "The Hong Kong Polytechnic University",
+      "company": "The Hong Kong Polytechnic University",
       "position": "Research Assistant",
       "url": "https://www.polyu.edu.hk/",
       "startDate": "2020-09-01",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "name": "Deloitte Touche Tohmatsu",
+      "company": "Deloitte Touche Tohmatsu",
       "position": "Associate",
       "url": "https://www.deloitte.com/cn/en.html",
       "startDate": "2019-01-01",
@@ -77,7 +77,10 @@
   "education": [
     {
       "institution": "The Hong Kong Polytechnic University",
-      "location": "Hong Kong, China",
+      "location": {
+        "city": "Hong Kong",
+        "countryCode": "HK"
+      },
       "url": "https://www.polyu.edu.hk/",
       "area": "Real Estate Economics",
       "studyType": "Ph.D.",
@@ -90,7 +93,10 @@
     },
     {
       "institution": "Nanyang Technological University, Nanyang Business School",
-      "location": "Singapore",
+      "location": {
+        "city": "Singapore",
+        "countryCode": "SG"
+      },
       "url": "https://www.ntu.edu.sg/nbs",
       "area": "Research (Business/Finance)",
       "studyType": "Visiting Research Student",
@@ -101,7 +107,10 @@
     },
     {
       "institution": "Lancaster University",
-      "location": "United Kingdom",
+      "location": {
+        "city": "Lancaster",
+        "countryCode": "GB"
+      },
       "url": "https://www.lancaster.ac.uk/",
       "area": "Advanced Financial Analysis",
       "studyType": "M.Sc.",
@@ -114,7 +123,10 @@
     },
     {
       "institution": "The Hang Seng University of Hong Kong",
-      "location": "Hong Kong, China",
+      "location": {
+        "city": "Hong Kong",
+        "countryCode": "HK"
+      },
       "url": "https://www.hsu.edu.hk/",
       "area": "Business Administration",
       "studyType": "BBA",
@@ -211,12 +223,30 @@
   ],
   "skills": [
     {
-      "name": "Research Interests",
+      "name": "Research Area: Sustainability",
       "level": "Master",
       "keywords": [
-        "Sustainability (Climate change, Biodiversity, Greenwashing)",
-        "Real Estate Economics and Finance (Climate resilience, Green buildings, Land)",
-        "Corporate Finance (Fintech, Blended Finance, Political Economy)",
+        "Climate change",
+        "Biodiversity",
+        "Greenwashing"
+      ]
+    },
+    {
+      "name": "Research Area: Real Estate Economics and Finance",
+      "level": "Master",
+      "keywords": [
+        "Climate resilience",
+        "Green buildings",
+        "Land"
+      ]
+    },
+    {
+      "name": "Research Area: Corporate Finance",
+      "level": "Master",
+      "keywords": [
+        "Fintech",
+        "Blended Finance",
+        "Political Economy"
       ]
     }
   ],
@@ -230,32 +260,7 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [
-    {
-      "name": "Sustainability",
-      "keywords": [
-        "Climate change",
-        "Biodiversity",
-        "Greenwashing"
-      ]
-    },
-    {
-      "name": "Real Estate",
-      "keywords": [
-        "Climate resilience",
-        "Green buildings",
-        "Land"
-      ]
-    },
-    {
-      "name": "Corporate Finance",
-      "keywords": [
-        "Fintech",
-        "Blended Finance",
-        "Political Economy"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [
     {
       "name": "Jeff Jianfu Shen",

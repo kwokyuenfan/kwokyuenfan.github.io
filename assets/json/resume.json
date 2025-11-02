@@ -6,7 +6,7 @@
     "email": "kyfan@hsu.edu.hk",
     "phone": "",
     "url": "https://kwokyuenfan.github.io/",
-    "summary": "Kwok Yuen Fan is an assistant professor of economics and finance at the Hang Seng University of Hong Kong. He received his Ph.D. in Real Estate Economics from Hong Kong Polytechnic University. His research focuses on Sustainability, Real Estate Finance, and Fintech. He passed the CFA Level III and FRM Part II examinations and has several published papers in reputable journals such as the World Development, International Review of Financial Analysis, Journal of Real Estate Finance and Economics and Journal of Real Estate Research.",
+    "summary": "Kwok Yuen Fan is an assistant professor of economics and finance at the Hang Seng University of Hong Kong. He received his Ph.D. in Real Estate Economics from Hong Kong Polytechnic University. His research focuses on Sustainability, Real Estate Economics and Finance, and Corporate Finance. He passed the CFA Level III and FRM Part II examinations and has several published papers in reputable journals such as the World Development, International Review of Financial Analysis, Journal of Real Estate Finance and Economics and Journal of Real Estate Research.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -214,10 +214,9 @@
       "name": "Research Interests",
       "level": "Master",
       "keywords": [
-        "Real Estate Economics and Finance (Land, Green buildings, Climate resilience)",
-        "Sustainability (ESG, Green finance, Greenwashing, Climate change)",
-        "Corporate Finance",
-        "Fintech"
+        "Sustainability (Climate change, Biodiversity, Greenwashing)",
+        "Real Estate Economics and Finance (Climate resilience, Green buildings, Land)",
+        "Corporate Finance (Fintech, Blended Finance, Political Economy)",
       ]
     }
   ],
@@ -235,24 +234,25 @@
     {
       "name": "Sustainability",
       "keywords": [
-        "ESG",
-        "Green finance",
-        "Climate change"
+        "Climate change",
+        "Biodiversity",
+        "Greenwashing"
       ]
     },
     {
       "name": "Real Estate",
       "keywords": [
-        "Real Estate Economics",
-        "Real Estate Finance",
-        "Green buildings"
+        "Climate resilience",
+        "Green buildings",
+        "Land"
       ]
     },
     {
-      "name": "Fintech",
+      "name": "Corporate Finance",
       "keywords": [
-        "P2P lending",
-        "Household climate resilience"
+        "Fintech",
+        "Blended Finance",
+        "Political Economy"
       ]
     }
   ],

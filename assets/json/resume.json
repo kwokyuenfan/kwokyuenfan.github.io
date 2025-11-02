@@ -93,7 +93,7 @@
       "area": "Research (Business/Finance)",
       "studyType": "Visiting Research Student",
       "startDate": "2023-01-01",
-      "endDate": "2023-06-31",
+      "endDate": "2023-06-30",
       "score": "",
       "courses": []
     },
@@ -105,8 +105,8 @@
       "studyType": "M.Sc.",
       "startDate": "2017-10-01",
       "endDate": "2018-09-30",
-      "score": "",
-      "summary": "Distinction",
+      "score": "Distinction",
+      "summary": "",
       "courses": ["Dissertation: The cross-sectional profitability of idiosyncratic volatility and its common pattern for stock returns: Empirical evidence from the U.S. markets"]
     },
     {

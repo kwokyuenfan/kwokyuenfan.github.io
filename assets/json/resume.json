@@ -281,30 +281,6 @@
   ],
   "projects": [
     {
-      "name": "Property presale and extra-budgetary revenue",
-      "description": "Data cleaning in progress (with Shen, J.).",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Unfinished buildings and loan suspension",
-      "description": "Data cleaning in progress.",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
-      "name": "Judicial independence and audit costs",
-      "description": "Manuscript in progress (with Tsang, D. & Chu, X.).",
-      "highlights": [],
-      "startDate": "",
-      "endDate": "",
-      "url": ""
-    },
-    {
       "name": "Environmental Materiality in ESG Strategy: A REIT Perspective",
       "description": "This study examines the role of environmental materiality in the environmental, social and governance (ESG) strategies adopted by real estate investment trusts (REITs) in the US. Due to the large investment required to improve environmental performance, REITs may undertake strategic ESG efforts by focusing more on the social and governance pillars than the environmental pillar. Our study finds that these strategic ESG practices of REITs, measured by strategic ESG scores, are associated with better revenue growth, higher profitability and larger asset expansion. The long–short portfolios, which long stocks with higher strategic ESG scores and short stocks with lower strategic ESG scores, generate positive risk-adjusted returns of 0.558% (0.821%) per month under an equal-weighted (value-weighted) scheme. Stocks with higher strategic ESG scores are also associated with higher long-term valuations, as measured by Tobin’s Q and buy-and-hold returns, and larger institutional ownership. The strategic ESG practices, however, have adverse environmental consequences, resulting in increased greenhouse gas emissions and environmental damage costs.",
       "highlights": [],
@@ -395,6 +371,30 @@
     {
       "name": "Performance Measurability and Air Pollution Control: Evidence from a Quasi-experiment in China",
       "description": "This study examines the impact of performance measurability on the effectiveness of local governments in mitigating air pollution. Utilizing a difference-in-differences (DiD) approach, which leverages the 2013 Air Pollution Prevention and Control Action Plan in China, this study finds a substantial and negative correlation between performance measurability on PM2.5 concentration. Mechanism analysis finds that the reduction in PM2.5 concentration is more pronounced in cities managed by leaders with stronger political promotion incentives (career concern incentive), and in those that are more reliant on financial transfers from the central government (financial incentive). Further analysis highlights the role of performance measurability in prompting genuine governmental efforts in environmental conservation. Our study emphasizes the importance of transparent reporting of environmental data in advancing sustainable development in developing countries.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Property presale and extra-budgetary revenue",
+      "description": "Data cleaning in progress (with Shen, J.).",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Unfinished buildings and loan suspension",
+      "description": "Data cleaning in progress.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Judicial independence and audit costs",
+      "description": "Manuscript in progress (with Tsang, D. & Chu, X.).",
       "highlights": [],
       "startDate": "",
       "endDate": "",

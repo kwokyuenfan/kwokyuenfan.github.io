@@ -221,35 +221,7 @@
       "summary": "The beta anomaly in the REIT market and providing evidence that it is driven by institutional investors' preference for high-beta assets, which supports the leverage constraints hypothesis over alternative explanations. This institutional demand inflates the prices of high-beta REITs, causing their subsequent risk-adjusted underperformance and creating profitable opportunities for strategies that bet against beta."
     }
   ],
-  "skills": [
-    {
-      "name": "Research Area: Sustainability",
-      "level": "Master",
-      "keywords": [
-        "Climate change",
-        "Biodiversity",
-        "Greenwashing"
-      ]
-    },
-    {
-      "name": "Research Area: Real Estate Economics and Finance",
-      "level": "Master",
-      "keywords": [
-        "Climate resilience",
-        "Green buildings",
-        "Land"
-      ]
-    },
-    {
-      "name": "Research Area: Corporate Finance",
-      "level": "Master",
-      "keywords": [
-        "Fintech",
-        "Blended Finance",
-        "Political Economy"
-      ]
-    }
-  ],
+  "skills": [],
   "languages": [
     {
       "language": "English",
@@ -260,7 +232,32 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [],
+   "interests": [
+    {
+      "name": "Sustainability",
+      "keywords": [
+        "Climate change",
+        "Biodiversity",
+        "Greenwashing"
+      ]
+    },
+    {
+      "name": "Real Estate",
+      "keywords": [
+        "Climate resilience",
+        "Green buildings",
+        "Land"
+      ]
+    },
+    {
+      "name": "Corporate Finance",
+      "keywords": [
+        "Fintech",
+        "Blended Finance",
+        "Political Economy"
+      ]
+    }
+  ],
   "references": [
     {
       "name": "Jeff Jianfu Shen",

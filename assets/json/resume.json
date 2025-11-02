@@ -207,61 +207,6 @@
       "releaseDate": "2021",
       "url": "https://doi.org/10.1007/s11146-020-09784-3",
       "summary": "The beta anomaly in the REIT market and providing evidence that it is driven by institutional investors' preference for high-beta assets, which supports the leverage constraints hypothesis over alternative explanations. This institutional demand inflates the prices of high-beta REITs, causing their subsequent risk-adjusted underperformance and creating profitable opportunities for strategies that bet against beta."
-    },
-    {
-      "name": "ESG Arbitrage and Environmental Outcomes in REITs",
-      "publisher": "Journal of Business Finance & Accounting",
-      "summary": "This study examines the role of environmental materiality in the environmental, social and governance (ESG) strategies adopted by real estate investment trusts (REITs) in the US. Due to the large investment required to improve environmental performance, REITs may undertake strategic ESG efforts by focusing more on the social and governance pillars than the environmental pillar. Our study finds that these strategic ESG practices of REITs, measured by strategic ESG scores, are associated with better revenue growth, higher profitability and larger asset expansion. The long–short portfolios, which long stocks with higher strategic ESG scores and short stocks with lower strategic ESG scores, generate positive risk-adjusted returns of 0.558% (0.821%) per month under an equal-weighted (value-weighted) scheme. Stocks with higher strategic ESG scores are also associated with higher long-term valuations, as measured by Tobin’s Q and buy-and-hold returns, and larger institutional ownership. The strategic ESG practices, however, have adverse environmental consequences, resulting in increased greenhouse gas emissions and environmental damage costs."
-    },
-    {
-      "name": "Regulatory Arbitrage by Governments and Land Conveyance",
-      "publisher": "Land Use Policy",
-      "summary": "The pollution haven hypothesis argues that polluting firms strategically respond to the imbalance in environmental regulations; and yet the role of local governments in facilitating the reallocation of polluting activities has not been examined. This study investigates the impact of local government’s strategical response induced by geographically imbalanced regulations on industrial land conveyance to polluting industries in China. Following the Clean Air Action 2013, counties bordering regions with stricter air pollution regulations conveyed more land to polluting industries than those that do not. In bordering counties, land conveyance prices were strategically manipulated, indicating that the increase in land allocation was driven by deliberate price reductions by local governments to attract polluting activities. The effect was more pronounced in counties with lower environmental attention and higher political ambitions among officials. Lastly, deliberate creation of pollution haven led to enhanced economic growth and exacerbated air pollution. These findings underscore the urgent need for coordinated policy efforts to address the unintended consequences of environmental regulation imbalances, thereby emphasizing the importance of the issue to the audience."
-    },
-    {
-      "name": "An Institutional Perspective of Selective ESG Engagement",
-      "publisher": "Journal of Real Estate Finance and Economics",
-      "summary": "This study examines how institutional factors shape the selective engagement of environmental, social, and governance (ESG) practices in Real Estate Investment Trusts (REITs) across different regions. The resource-based view suggests that REITs may prioritize social and governance practices over environmental investment due to resource constraints. Analyzing 302 REITs from the U.S., Europe, and Asia (2012-2022), our study finds that institutional factors—environmental policy strictness and investor attitudes—lead to different outcomes: selective ESG strategies enhance profitability and market valuation in the U.S. but reduce them in Europe. These findings emphasize the critical role of institutional contexts in shaping corporate sustainability."
-    },
-    {
-      "name": "Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition? Evidence from industrial land conveyance in China",
-      "publisher": "Real Estate Economics",
-      "summary": "Expected submission. This study examines the impact of integration of environmental considerations into the political evaluations on the race-to-the-bottom competition in the land market. By analyzing over 250,000 industrial land transactions from 279 cities between 2007 and 2018, we find that local officials frequently reduced land prices to attract investment, particularly in regions with intense economic competition and when facing major political reviews. Our difference-in-differences analysis reveals that the introduction of environmental protection as a criterion in the cadre evaluation system in 2013 significantly mitigated the race-to-the-bottom competition in land conveyancing. Moreover, heightened environmental monitoring pressures have led local officials to be less inclined to sell industrial land at lower prices. This study contributes to the understanding of how political incentives and environmental policies interact to influence local officials’ resource allocation decisions, with implications for both environmental quality and economic performance. Our findings suggest that integrating environmental considerations into political evaluations can effectively reduce the race-to-the-bottom competition among local officials and promote sustainable development."
-    },
-    {
-      "name": "Leverage constraints and financial manipulation in the real estate sector",
-      "publisher": "Journal of Real Estate Finance and Economics",
-      "summary": "Expected submission."
-    },
-    {
-      "name": "Developer’s ESG Reputation Concern and Green Building Development",
-      "publisher": "Journal of Real Estate Research",
-      "summary": "Expected submission."
-    },
-    {
-      "name": "The Price of Pandemic Fear in the Residential Rental Market: Evidence from Hong Kong",
-      "publisher": "Journal of Real Estate Research",
-      "summary": "Working paper. Expected submission."
-    },
-    {
-      "name": "Lobbying and Fossil Fuel Investment",
-      "publisher": "Business Strategy and the Environment",
-      "summary": "This study explores the impact of the lobbying activities of oil and gas companies on their corporate investment decisions. Using a sample of listed oil and gas companies in the U.S. from 2000 to 2019, this study finds that in comparison with non-lobbying firms, lobbying companies’ capital expenditures increase by 6.2% and their oil and gas reserves’ growth rate increases by 16.4% in the year following lobbying. The amount of lobbying expenditures is also positively associated with fossil fuel investments. The results remain robust when an instrumental variable approach is applied to address endogeneity concerns. Our plant-level analysis indicates that political lobbying by fossil fuel parent companies does not enhance abatement investment alongside conventional energy, but instead, it raises pollution emissions. Further investigation shows that lobbying activities significantly boost the financial performance of fossil fuel companies without reducing their political risks or exposure to climate change policy uncertainty. Taken together, this study suggests that lobbying improves the financial performance of oil and gas companies and leads to an increase in their fossil fuel investments."
-    },
-    {
-      "name": "Environmental Regulatory Independence and Corporate Environmental Performance",
-      "publisher": "Journal of Corporate Finance",
-      "summary": "We examine the impact of environmental regulatory independence on corporate environmental performance. Before 2016, local and central state-owned enterprises (SOEs) in China headquartered in jurisdictions far from central government supervision had poor environmental performance. The 2016 environmental verticalization reform transferred the management authority of local Environmental Protection Bureaus (EPBs) from local governments to provincial EPBs. We find that local SOEs’ corporate environmental performance significantly improves as local EPBs gain more regulator independence. However, the reform did not affect the environmental performance of central SOEs, which often outrank provincial EPBs, or privately owned enterprises (POEs), which were already managed by local EPBs before the reform. Further analysis indicates that the improvement in corporate environmental performance depends upon local governments’ environmental attention and regulatory capture. Although local SOEs increased abatement investments, the reform does not negatively affect their revenue, profitability, and valuation. This study suggests that policymakers should consider political rankings to improve environmental governance and enhance transparency in regulatory processes to mitigate rent-seeking behaviors."
-    },
-    {
-      "name": "Climate Lobbying under uncertainty: Corporate Strategies and consequences",
-      "publisher": "Journal of Financial and Quantitative Analysis",
-      "summary": "Under review."
-    },
-    {
-      "name": "Can fintech enhance household climate resilience? Evidence from P2P lending platform",
-      "publisher": "Journal of Financial Intermediation",
-      "summary": "Working paper. Expected submission."
     }
   ],
   "skills": [
@@ -314,7 +259,7 @@
   "references": [
     {
       "name": "Jeff Jianfu Shen",
-      "reference": "PhD Supervisor, Assistant Professor, Department of Building & Real Estate, The Hong Kong Polytechnic University, jeff.jf.shen@polyu.edu.hk"
+      "reference": "PhD Supervisor, Associate Professor, Department of Building & Real Estate, The Hong Kong Polytechnic University, jeff.jf.shen@polyu.edu.hk"
     },
     {
       "name": "Eddie C.M. Hui",
@@ -326,7 +271,7 @@
     },
     {
       "name": "Weimin Liu",
-      "reference": "Chair Professor; Associate Dean, Faculty of Business and Management, Beijing Normal University - Hong Kong Baptist University United International College, weiminliu@uic.edu.cn"
+      "reference": "Chair Professor; Associate Dean, Faculty of Business and Management, Beijing Normal - Hong Kong Baptist University, weiminliu@uic.edu.cn"
     }
   ],
   "projects": [
@@ -349,6 +294,102 @@
     {
       "name": "Judicial independence and audit costs",
       "description": "Manuscript in progress (with Tsang, D. & Chu, X.).",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Environmental Materiality in ESG Strategy: A REIT Perspective",
+      "description": "This study examines the role of environmental materiality in the environmental, social and governance (ESG) strategies adopted by real estate investment trusts (REITs) in the US. Due to the large investment required to improve environmental performance, REITs may undertake strategic ESG efforts by focusing more on the social and governance pillars than the environmental pillar. Our study finds that these strategic ESG practices of REITs, measured by strategic ESG scores, are associated with better revenue growth, higher profitability and larger asset expansion. The long–short portfolios, which long stocks with higher strategic ESG scores and short stocks with lower strategic ESG scores, generate positive risk-adjusted returns of 0.558% (0.821%) per month under an equal-weighted (value-weighted) scheme. Stocks with higher strategic ESG scores are also associated with higher long-term valuations, as measured by Tobin’s Q and buy-and-hold returns, and larger institutional ownership. The strategic ESG practices, however, have adverse environmental consequences, resulting in increased greenhouse gas emissions and environmental damage costs.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Regulatory Arbitrage by Governments and Land Conveyance",
+      "description": "The pollution haven hypothesis argues that polluting firms strategically respond to the imbalance in environmental regulations; and yet the role of local governments in facilitating the reallocation of polluting activities has not been examined. This study investigates the impact of local government’s strategical response induced by geographically imbalanced regulations on industrial land conveyance to polluting industries in China. Following the Clean Air Action 2013, counties bordering regions with stricter air pollution regulations conveyed more land to polluting industries than those that do not. In bordering counties, land conveyance prices were strategically manipulated, indicating that the increase in land allocation was driven by deliberate price reductions by local governments to attract polluting activities. The effect was more pronounced in counties with lower environmental attention and higher political ambitions among officials. Lastly, deliberate creation of pollution haven led to enhanced economic growth and exacerbated air pollution. These findings underscore the urgent need for coordinated policy efforts to address the unintended consequences of environmental regulation imbalances, thereby emphasizing the importance of the issue to the audience.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "An Institutional Perspective of Selective ESG Engagement",
+      "description": "This study examines how institutional factors shape the selective engagement of environmental, social, and governance (ESG) practices in Real Estate Investment Trusts (REITs) across different regions. The resource-based view suggests that REITs may prioritize social and governance practices over environmental investment due to resource constraints. Analyzing 302 REITs from the U.S., Europe, and Asia (2012-2022), our study finds that institutional factors—environmental policy strictness and investor attitudes—lead to different outcomes: selective ESG strategies enhance profitability and market valuation in the U.S. but reduce them in Europe. These findings emphasize the critical role of institutional contexts in shaping corporate sustainability.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition? Evidence from industrial land conveyance in China",
+      "description": "This study examines the impact of integration of environmental considerations into the political evaluations on the race-to-the-bottom competition in the land market. By analyzing over 250,000 industrial land transactions from 279 cities between 2007 and 2018, we find that local officials frequently reduced land prices to attract investment, particularly in regions with intense economic competition and when facing major political reviews. Our difference-in-differences analysis reveals that the introduction of environmental protection as a criterion in the cadre evaluation system in 2013 significantly mitigated the race-to-the-bottom competition in land conveyancing. Moreover, heightened environmental monitoring pressures have led local officials to be less inclined to sell industrial land at lower prices. This study contributes to the understanding of how political incentives and environmental policies interact to influence local officials’ resource allocation decisions, with implications for both environmental quality and economic performance. Our findings suggest that integrating environmental considerations into political evaluations can effectively reduce the race-to-the-bottom competition among local officials and promote sustainable development.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Leverage constraints and financial manipulation in the real estate sector",
+      "description": "Working paper. Expected submission.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Developer’s ESG Reputation Concern and Green Building Development",
+      "description": "Working paper. Expected submission.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "The Price of Pandemic Fear in the Residential Rental Market: Evidence from Hong Kong",
+      "description": "Working paper. Expected submission.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Lobbying and Fossil Fuel Investment",
+      "description": "This study explores the impact of the lobbying activities of oil and gas companies on their corporate investment decisions. Using a sample of listed oil and gas companies in the U.S. from 2000 to 2019, this study finds that in comparison with non-lobbying firms, lobbying companies’ capital expenditures increase by 6.2% and their oil and gas reserves’ growth rate increases by 16.4% in the year following lobbying. The amount of lobbying expenditures is also positively associated with fossil fuel investments. The results remain robust when an instrumental variable approach is applied to address endogeneity concerns. Our plant-level analysis indicates that political lobbying by fossil fuel parent companies does not enhance abatement investment alongside conventional energy, but instead, it raises pollution emissions. Further investigation shows that lobbying activities significantly boost the financial performance of fossil fuel companies without reducing their political risks or exposure to climate change policy uncertainty. Taken together, this study suggests that lobbying improves the financial performance of oil and gas companies and leads to an increase in their fossil fuel investments.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Environmental Regulatory Independence and Corporate Environmental Performance",
+      "description": "We examine the impact of environmental regulatory independence on corporate environmental performance. Before 2016, local and central state-owned enterprises (SOEs) in China headquartered in jurisdictions far from central government supervision had poor environmental performance. The 2016 environmental verticalization reform transferred the management authority of local Environmental Protection Bureaus (EPBs) from local governments to provincial EPBs. We find that local SOEs’ corporate environmental performance significantly improves as local EPBs gain more regulator independence. However, the reform did not affect the environmental performance of central SOEs, which often outrank provincial EPBs, or privately owned enterprises (POEs), which were already managed by local EPBs before the reform. Further analysis indicates that the improvement in corporate environmental performance depends upon local governments’ environmental attention and regulatory capture. Although local SOEs increased abatement investments, the reform does not negatively affect their revenue, profitability, and valuation. This study suggests that policymakers should consider political rankings to improve environmental governance and enhance transparency in regulatory processes to mitigate rent-seeking behaviors.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Climate Lobbying under uncertainty: Corporate Strategies and consequences",
+      "description": "Under review.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Can fintech enhance household climate resilience? Evidence from P2P lending platform",
+      "description": "Working paper. Expected submission.",
+      "highlights": [],
+      "startDate": "",
+      "endDate": "",
+      "url": ""
+    },
+    {
+      "name": "Performance Measurability and Air Pollution Control: Evidence from a Quasi-experiment in China",
+      "description": "This study examines the impact of performance measurability on the effectiveness of local governments in mitigating air pollution. Utilizing a difference-in-differences (DiD) approach, which leverages the 2013 Air Pollution Prevention and Control Action Plan in China, this study finds a substantial and negative correlation between performance measurability on PM2.5 concentration. Mechanism analysis finds that the reduction in PM2.5 concentration is more pronounced in cities managed by leaders with stronger political promotion incentives (career concern incentive), and in those that are more reliant on financial transfers from the central government (financial incentive). Further analysis highlights the role of performance measurability in prompting genuine governmental efforts in environmental conservation. Our study emphasizes the importance of transparent reporting of environmental data in advancing sustainable development in developing countries.",
       "highlights": [],
       "startDate": "",
       "endDate": "",

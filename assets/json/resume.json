@@ -22,7 +22,7 @@
       }
     ]
   },
-  "work": [
+  "Academic Position": [
     {
       "name": "The Hang Seng University of Hong Kong (HSUHK)",
       "position": "Assistant Professor of Economics and Finance",
@@ -54,8 +54,8 @@
       "name": "The Hong Kong Polytechnic University",
       "position": "Research Assistant",
       "url": "https://www.polyu.edu.hk/",
-      "startDate": "2019-01-01",
-      "endDate": "2020-12-31",
+      "startDate": "2020-09-01",
+      "endDate": "2023-08-31",
       "summary": "",
       "highlights": [
         "Tutor, Development Finance and Investment",
@@ -92,14 +92,14 @@
       "url": "https://www.ntu.edu.sg/nbs",
       "area": "Research (Business/Finance)",
       "studyType": "Visiting Research Student",
-      "startDate": "2023-03-01",
-      "endDate": "2023-05-31",
+      "startDate": "2023-01-01",
+      "endDate": "2023-06-31",
       "score": "",
       "courses": []
     },
     {
       "institution": "Lancaster University",
-      "location": "Lancaster, United Kingdom",
+      "location": "United Kingdom",
       "url": "https://www.lancaster.ac.uk/",
       "area": "Advanced Financial Analysis",
       "studyType": "M.Sc.",
@@ -173,7 +173,7 @@
       "publisher": "World Development",
       "releaseDate": "2025-01-01",
       "url": "https://doi.org/10.1016/j.worlddev.2025.107056",
-      "summary": "This study examines the impact of performance measurability on the effectiveness of local governments in mitigating air pollution. Utilizing a difference-in-differences (DiD) approach, which leverages the 2013 Air Pollution Prevention and Control Action Plan in China, this study finds a substantial and negative correlation between performance measurability on PM2.5 concentration. Mechanism analysis finds that the reduction in PM2.5 concentration is more pronounced in cities managed by leaders with stronger political promotion incentives (career concern incentive), and in those that are more reliant on financial transfers from the central government (financial incentive). Further analysis highlights the role of performance measurability in prompting genuine governmental efforts in environmental conservation. Our study emphasizes the importance of transparent reporting of environmental data in advancing sustainable development in developing countries."
+      "summary": ""
     },
     {
       "name": "ESG components and equity returns: Evidence from real estate investment trusts",

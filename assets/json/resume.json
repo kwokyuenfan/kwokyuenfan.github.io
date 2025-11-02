@@ -22,7 +22,7 @@
       }
     ]
   },
-  "Academic Position": [
+  "work": [
     {
       "name": "The Hang Seng University of Hong Kong (HSUHK)",
       "position": "Assistant Professor of Economics and Finance",
@@ -171,47 +171,51 @@
     {
       "name": "Performance measurability, local government’s incentives, and regional air pollution reduction",
       "publisher": "World Development",
-      "releaseDate": "2025-01-01",
+      "releaseDate": "2025",
       "url": "https://doi.org/10.1016/j.worlddev.2025.107056",
       "summary": "Enhanced environmental performance measurability leads to improved environmental quality, particularly when local leaders possess strong career incentives and their financial support is directly contingent on successful environmental protection outcomes."
     },
     {
       "name": "ESG components and equity returns: Evidence from real estate investment trusts",
       "publisher": "International Review of Financial Analysis",
-      "releaseDate": "2024-01-01",
+      "releaseDate": "2024",
       "url": "https://doi.org/10.1016/j.irfa.2024.103716",
       "summary": "For US Real Estate Investment Trusts (REITs), this study finds that higher environmental performance negatively impacts future stock returns and firm fundamentals, while social and governance performance are positively associated with both. These contrasting effects stem from environmental investments' high costs versus the benefits of social and governance practices, underscoring that ESG's influence on equity returns is component-specific."
     },
     {
       "name": "The value of sustainable property management in real estate: Evidence from Hong Kong",
       "publisher": "Journal of Real Estate Research",
-      "releaseDate": "2024-01-01",
+      "releaseDate": "2024",
       "url": "https://doi.org/10.1080/08965803.2024.2346413",
       "summary": "ESG performance of property management companies is capitalized into housing prices, with the value premium driven by a reduction in perceived risk and a higher rental growth rate rather than by higher gross rents. Management firms can directly enhance property values by improving ESG practices, and investors should incorporate this non-physical attribute into their valuations."
     },
     {
       "name": "The valuation effect and consequences of clawback adoption in real estate investment trusts",
       "publisher": "The Journal of Real Estate Finance and Economics",
-      "releaseDate": "2024-01-01",
-      "url": "https://doi.org/10.1007/s11146-022-09909-w"
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1007/s11146-022-09909-w",
+      "summary": "Clawback provisions are a value-relevant corporate governance mechanism even in the highly regulated REIT market, as investors positively value the adoption of strong policies, particularly in firms with higher prior financial restatement risk and disclosure opacity. Adopting such policies tangibly improves REIT governance by reducing the likelihood of financial restatements, enhancing the quality of financial disclosures, and curbing aggressive investment."
     },
     {
       "name": "Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs",
       "publisher": "The Journal of Real Estate Finance and Economics",
-      "releaseDate": "2021-01-01",
-      "url": "https://doi.org/10.1007/s11146-020-09763-8"
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1007/s11146-020-09763-8",
+      "summary": "Real estate professionals in REITs anticipated the 2007-2008 financial crisis by significantly selling their holdings as early as 2004, which refutes the competing "biased belief hypothesis" that they were over-optimistic. Unlike many experts in the broader financial industry, these sophisticated real estate insiders successfully foresaw the systemic risk in the housing market, suggesting their trading patterns can act as an early warning signal for sector-wide bubbles."
     },
     {
       "name": "The beta anomaly in the REIT market",
       "publisher": "The Journal of Real Estate Finance and Economics",
-      "releaseDate": "2021-01-01",
-      "url": "https://doi.org/10.1007/s11146-020-09784-3"
+      "releaseDate": "2021",
+      "url": "https://doi.org/10.1007/s11146-020-09784-3",
+      "summary": "The beta anomaly in the REIT market and providing evidence that it is driven by institutional investors' preference for high-beta assets, which supports the leverage constraints hypothesis over alternative explanations. This institutional demand inflates the prices of high-beta REITs, causing their subsequent risk-adjusted underperformance and creating profitable opportunities for strategies that bet against beta."
     },
     {
       "name": "Why high-speed rail causes heterogeneous spatial patterns in firm innovation: Perspectives from intensive and extensive margins",
       "publisher": "PloS one",
-      "releaseDate": "2024-01-01",
-      "url": "https://doi.org/10.1371/journal.pone.0311621"
+      "releaseDate": "2024",
+      "url": "https://doi.org/10.1371/journal.pone.0311621",
+      "summary": "This paper decompose the impact of high-speed rail (HSR) on firm innovation into extensive (more firms innovating) and intensive (firms innovating more) margins, revealing that the net positive effect is a trade-off between beneficial knowledge spillovers and a detrimental "brain drain" from peripheral counties to urban centers. While HSR boosts overall innovation, it can exacerbate regional inequality, necessitating targeted policies to support innovation in peripheral areas and mitigate the brain drain effect."
     },
     {
       "name": "ESG Arbitrage and Environmental Outcomes in REITs",

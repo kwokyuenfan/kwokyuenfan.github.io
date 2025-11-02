@@ -3,10 +3,10 @@
     "name": "Kwok Yuen FAN",
     "label": "Assistant Professor of Economics and Finance",
     "image": "",
-    "email": "kwokyuenfan@uic.edu.cn",
+    "email": "kyfan@hsu.edu.hk",
     "phone": "",
     "url": "https://kwokyuenfan.github.io/",
-    "summary": "Kwok Yuen Fan is an assistant professor of economics and finance at the Beijing Normal University – Hong Kong Baptist University United International College. He received his Ph.D. in Real Estate Economics from Hong Kong Polytechnic University. His research focuses on Sustainability, Real Estate Finance, and Fintech. He passed the CFA Level III and FRM Part II examinations and has several published papers in reputable journals such as the International Review of Financial Analysis, Journal of Real Estate Finance and Economics and Journal of Real Estate Research.",
+    "summary": "Kwok Yuen Fan is an assistant professor of economics and finance at the Hang Seng University of Hong Kong. He received his Ph.D. in Real Estate Economics from Hong Kong Polytechnic University. His research focuses on Sustainability, Real Estate Finance, and Fintech. He passed the CFA Level III and FRM Part II examinations and has several published papers in reputable journals such as the World Development, International Review of Financial Analysis, Journal of Real Estate Finance and Economics and Journal of Real Estate Research.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -26,11 +26,14 @@
     {
       "name": "The Hang Seng University of Hong Kong (HSUHK)",
       "position": "Assistant Professor of Economics and Finance",
-      "url": "https://www.hsu.edu.hk/en/",
+      "url": "https://www.hsu.edu.hk/en/teaching-learning/academic-staff/?staffId=1279",
       "startDate": "2025-09-01",
       "endDate": "",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Lecturer, Urban and Real Estate Economics",
+        "Lecturer, Business Economics"
+      ]
     },
     {
       "name": "Beijing Normal-Hong Kong Baptist University (BNBU) United International College",
@@ -54,42 +57,19 @@
       "startDate": "2019-01-01",
       "endDate": "2020-12-31",
       "summary": "",
-      "highlights": []
-    },
-    {
-      "name": "The Hang Seng University of Hong Kong",
-      "position": "Research Assistant",
-      "url": "https://www.hsu.edu.hk/",
-      "startDate": "2018-01-01",
-      "endDate": "2019-12-31",
-      "summary": "",
-      "highlights": []
+      "highlights": [
+        "Tutor, Development Finance and Investment",
+        "Tutor, Construction Economics",
+        "Tutor, Business Valuation and Accounts"
+      ]
     },
     {
       "name": "Deloitte Touche Tohmatsu",
-      "position": "",
-      "url": "https://www2.deloitte.com/cn/en.html",
-      "startDate": "2018-01-01",
-      "endDate": "2018-12-31",
+      "position": "Associate",
+      "url": "https://www.deloitte.com/cn/en.html",
+      "startDate": "2019-01-01",
+      "endDate": "2019-12-31",
       "summary": "Industry Experience",
-      "highlights": []
-    },
-    {
-      "name": "Baidu",
-      "position": "",
-      "url": "https://www.baidu.com/",
-      "startDate": "2016-01-01",
-      "endDate": "2016-12-31",
-      "summary": "Industry Experience",
-      "highlights": []
-    },
-    {
-      "name": "GoGoX",
-      "position": "",
-      "url": "https://www.gogox.com/hk/",
-      "startDate": "2015-01-01",
-      "endDate": "2015-12-31",
-      "summary": "Industry Experience (Invested by Alibaba, Singapore Press Holdings, BOCOM International and Cyberport Macro Fund)",
       "highlights": []
     }
   ],
@@ -104,7 +84,7 @@
       "startDate": "2020-09-01",
       "endDate": "2023-08-31",
       "score": "",
-      "courses": ["Dissertation: Institutional designs and environmental governance"]
+      "courses": ["Thesis: Institutional designs and environmental governance"]
     },
     {
       "institution": "Nanyang Technological University, Nanyang Business School",
@@ -127,7 +107,7 @@
       "endDate": "2018-09-30",
       "score": "",
       "summary": "Distinction",
-      "courses": []
+      "courses": ["Dissertation: The cross-sectional profitability of idiosyncratic volatility and its common pattern for stock returns: Empirical evidence from the U.S. markets"]
     },
     {
       "institution": "The Hang Seng University of Hong Kong",
@@ -192,44 +172,44 @@
       "name": "Performance measurability, local government’s incentives, and regional air pollution reduction",
       "publisher": "World Development",
       "releaseDate": "2025-01-01",
-      "url": "",
+      "url": "https://doi.org/10.1016/j.worlddev.2025.107056",
       "summary": "This study examines the impact of performance measurability on the effectiveness of local governments in mitigating air pollution. Utilizing a difference-in-differences (DiD) approach, which leverages the 2013 Air Pollution Prevention and Control Action Plan in China, this study finds a substantial and negative correlation between performance measurability on PM2.5 concentration. Mechanism analysis finds that the reduction in PM2.5 concentration is more pronounced in cities managed by leaders with stronger political promotion incentives (career concern incentive), and in those that are more reliant on financial transfers from the central government (financial incentive). Further analysis highlights the role of performance measurability in prompting genuine governmental efforts in environmental conservation. Our study emphasizes the importance of transparent reporting of environmental data in advancing sustainable development in developing countries."
     },
     {
       "name": "ESG components and equity returns: Evidence from real estate investment trusts",
       "publisher": "International Review of Financial Analysis",
       "releaseDate": "2024-01-01",
-      "url": ""
+      "url": "https://doi.org/10.1016/j.irfa.2024.103716"
     },
     {
       "name": "The value of sustainable property management in real estate: Evidence from Hong Kong",
       "publisher": "Journal of Real Estate Research",
       "releaseDate": "2024-01-01",
-      "url": ""
+      "url": "https://doi.org/10.1080/08965803.2024.2346413"
     },
     {
       "name": "The valuation effect and consequences of clawback adoption in real estate investment trusts",
       "publisher": "The Journal of Real Estate Finance and Economics",
       "releaseDate": "2024-01-01",
-      "url": ""
+      "url": "https://doi.org/10.1007/s11146-022-09909-w"
     },
     {
       "name": "Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs",
       "publisher": "The Journal of Real Estate Finance and Economics",
       "releaseDate": "2021-01-01",
-      "url": ""
+      "url": "https://doi.org/10.1007/s11146-020-09763-8"
     },
     {
       "name": "The beta anomaly in the REIT market",
       "publisher": "The Journal of Real Estate Finance and Economics",
       "releaseDate": "2021-01-01",
-      "url": ""
+      "url": "https://doi.org/10.1007/s11146-020-09784-3"
     },
     {
       "name": "Why high-speed rail causes heterogeneous spatial patterns in firm innovation: Perspectives from intensive and extensive margins",
       "publisher": "PloS one",
       "releaseDate": "2024-01-01",
-      "url": ""
+      "url": "https://doi.org/10.1371/journal.pone.0311621"
     },
     {
       "name": "ESG Arbitrage and Environmental Outcomes in REITs",

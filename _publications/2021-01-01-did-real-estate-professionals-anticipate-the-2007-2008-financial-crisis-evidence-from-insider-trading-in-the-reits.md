@@ -7,6 +7,5 @@ excerpt: 'Real estate professionals in REITs anticipated the 2007-2008 financial
 date: 2021-01-01
 venue: 'The Journal of Real Estate Finance and Economics'
 paperurl: 'https://doi.org/10.1007/s11146-020-09763-8'
-citation: 'Kwok Yuen Fan (2021). &quot;Did real estate professionals anticipate the 2007-2008 financial crisis? Evidence from insider trading in the REITs.&quot; <i>The Journal of Real Estate Finance and Economics</i>.'
 ---
 

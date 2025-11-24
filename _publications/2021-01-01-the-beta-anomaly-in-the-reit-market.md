@@ -7,6 +7,4 @@ excerpt: 'The beta anomaly in the REIT market and providing evidence that it is 
 date: 2021-01-01
 venue: 'The Journal of Real Estate Finance and Economics'
 paperurl: 'https://doi.org/10.1007/s11146-020-09784-3'
-citation: 'Kwok Yuen Fan (2021). &quot;The beta anomaly in the REIT market.&quot; <i>The Journal of Real Estate Finance and Economics</i>.'
 ---
-

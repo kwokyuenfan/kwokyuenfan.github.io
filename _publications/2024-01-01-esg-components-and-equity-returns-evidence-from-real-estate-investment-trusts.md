@@ -7,6 +7,4 @@ excerpt: 'For US Real Estate Investment Trusts (REITs), this study finds that hi
 date: 2024-01-01
 venue: 'International Review of Financial Analysis'
 paperurl: 'https://doi.org/10.1016/j.irfa.2024.103716'
-citation: 'Kwok Yuen Fan (2024). &quot;ESG components and equity returns: Evidence from real estate investment trusts.&quot; <i>International Review of Financial Analysis</i>.'
 ---
-

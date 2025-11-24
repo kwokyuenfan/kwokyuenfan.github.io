@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Kwok Yuen Fan"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Kwok Yuen Fan"
+description              : &description "Assistant Professor of Economics and Finance"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://kwokyuenfan.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  avatar           : "https://kwokyuenfan.github.io/personal/avatar.JPG"
+  name             : "Kwok Yuen Fan"
+  pronouns         :  
+  bio              : "Kwok Yuen Fan is an assistant professor of economics and finance at the Hang Seng University of Hong Kong. He received his Ph.D. in Real Estate Economics from Hong Kong Polytechnic University. His research focuses on Sustainability, Real Estate Economics and Finance, and Corporate Finance."
+  location         : "Hong Kong"
+  employer         : "The Hang Seng University of Hong Kong (HSUHK)"
+  uri              : https://kwokyuenfan.github.io/
+  email            : "kyfan@hsu.edu.hk" 
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "kwokyuenfan"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 

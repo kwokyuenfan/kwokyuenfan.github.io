@@ -36,9 +36,10 @@
       </div>
       {% endif %}
       
-      {% if cv.basics.website %}
+      {% assign website_link = cv.basics.website | default: cv.basics.url %}
+      {% if website_link %}
       <div class="cv-contact-item">
-        <i class="fas fa-globe"></i> <a href="{{ cv.basics.website }}" target="_blank">{{ cv.basics.website }}</a>
+        <i class="fas fa-globe"></i> <a href="{{ website_link }}" target="_blank">{{ website_link }}</a>
       </div>
       {% endif %}
       
@@ -161,9 +162,10 @@
           {% if publication.summary %}
           <div class="cv-item-detail">{{ publication.summary }}</div>
           {% endif %}
-          {% if publication.website %}
+          {% assign pub_link = publication.website | default: publication.url %}
+          {% if pub_link %}
           <div class="cv-item-detail">
-            <a href="{{ publication.website }}" target="_blank">View Publication</a>
+            <a href="{{ pub_link }}" target="_blank">View Publication</a>
           </div>
           {% endif %}
         </div>

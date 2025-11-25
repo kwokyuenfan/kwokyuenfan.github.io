@@ -7,8 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
+{% assign r_and_r = site.portfolio | where_exp: "item", "item.status == 'Review and Resubmit'" %}
+{% assign under_review = site.portfolio | where_exp: "item", "item.status == 'Under Review'" %}
+{% assign working_paper = site.portfolio | where_exp: "item", "item.status == 'Working Paper'" %}
+{% assign in_preparation = site.portfolio | where_exp: "item", "item.status == 'In Preparation'" %}
 
-{% for post in site.portfolio %}
+{% for post in r_and_r %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% for post in under_review %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% for post in working_paper %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% for post in in_preparation %}
   {% include archive-single.html %}
 {% endfor %}
 

@@ -34,6 +34,8 @@
           {% assign crumb_label = crumb | replace: '-', ' ' | replace: '%20', ' ' | capitalize %}
           {% if crumb == 'portfolio' %}
             {% assign crumb_label = 'Working Papers' %}
+          {% elsif crumb == 'talks' %}
+            {% assign crumb_label = 'Presentations' %}
           {% endif %}
           <a href="{{ base_path }}{{ crumb | downcase | replace: '%20', '-' | prepend: path_type | prepend: crumb_path }}" itemprop="item"><span itemprop="name">{{ crumb_label }}</span></a>
           <meta itemprop="position" content="{{ i }}" />

@@ -8,3 +8,5 @@ date: 2025-01-01
 venue: "World Development"
 paperurl: "https://doi.org/10.1016/j.worlddev.2025.107056"
 ---
+
+Enhanced environmental performance measurability leads to improved environmental quality, particularly when local leaders possess strong career incentives and their financial support is directly contingent on successful environmental protection outcomes.

@@ -3,7 +3,7 @@ title: "Multinational Finance"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-autumn-multinational-finance
-venue: "Beijing Normal University - Hong Kong Baptist University United International College"
+venue: "Beijing Normal - Hong Kong Baptist University"
 date: 2023-09-01
 location: "Zhuhai, China"
 ---

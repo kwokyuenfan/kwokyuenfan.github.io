@@ -3,7 +3,7 @@ title: "Business Research Method"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-autumn-business-research-method
-venue: "Beijing Normal University - Hong Kong Baptist University United International College"
+venue: "Beijing Normal - Hong Kong Baptist University"
 date: 2024-09-01
 location: "Zhuhai, China"
 ---

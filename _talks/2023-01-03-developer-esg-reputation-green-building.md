@@ -5,7 +5,6 @@ type: "Conference Presentation"
 permalink: /talks/2023-01-03-developer-esg-reputation-green-building
 venue: "2023 AsRES-GCREC Joint International Real Estate Conference"
 date: 2023-01-03
-location: "TBD"
 ---
 
 Presented by Jianfu Shen, with co-authors Kwok Yuen Fan, Eddie C.M. Hui and Yan Yee Hung.

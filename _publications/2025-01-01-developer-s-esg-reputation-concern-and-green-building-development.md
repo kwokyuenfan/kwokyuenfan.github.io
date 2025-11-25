@@ -6,5 +6,5 @@ permalink: /publication/2025-01-01-developer-s-esg-reputation-concern-and-green-
 excerpt: "Working paper."
 date: 2025-01-01
 venue: "Working Paper"
+status: "Working Paper"
 ---
-

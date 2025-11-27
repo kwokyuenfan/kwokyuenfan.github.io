@@ -3,7 +3,7 @@ title: "Financial Forecasting"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-spring-financial-forecasting
-venue: "Beijing Normal University - Hong Kong Baptist University United International College"
+venue: "Beijing Normal - Hong Kong Baptist University"
 date: 2025-01-01
 location: "Zhuhai, China"
 ---

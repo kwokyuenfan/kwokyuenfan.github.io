@@ -40,6 +40,11 @@ var addressPoints = [
     172.8344077
   ],
   [
+    "The Price of Pandemic Fear in the Residential Rental Market: Evidence from Hong Kong<br />2024 AsRES-GCREC & AREUEA Joint International Real Estate Annual Conference; Taiwan, China",
+    23.9739374,
+    120.9820179
+  ],
+  [
     "Environmental Materiality in ESG Strategy: A REIT Perspective<br />2023 AsRES-GCREC Joint International Real Estate Conference; Hong Kong, China",
     22.350627,
     114.1849161

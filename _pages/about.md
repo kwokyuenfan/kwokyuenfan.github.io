@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! I am **Kwok Yuen (K.Y.) Fan**, an Assistant Professor of Economics and Finance at The Hang Seng University of Hong Kong (HSUHK).
 
-My research operates at the intersection of two distinct worlds. My academic journey began in **Marketing**, studying how organizations craft narratives and sell visions of the future. However, as my path led me to the United Kingdom for a Master's in Finance, I began to perceive a friction between the stories companies tell and the ledger sheets they manage. Surrounded by the rigorous logic of capital markets, I identified a fundamental tension: while Marketing focuses on *perceived* value, Finance demands *shareholder* value.
+My research operates at the intersection of two distinct worlds. My academic journey began in Marketing, studying how organizations craft narratives and sell visions of the future. However, as my path led me to the United Kingdom for a Master's in Finance, I began to perceive a friction between the stories companies tell and the ledger sheets they manage. Surrounded by the rigorous logic of capital markets, I identified a fundamental tension: while Marketing focuses on *perceived* value, Finance demands *shareholder* value.
 
 > **But what about social value?**
 

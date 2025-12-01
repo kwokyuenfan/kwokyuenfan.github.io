@@ -1,7 +1,7 @@
 ---
 title: "Rewriting the Contract: How Bureaucratic Incentives Ended China's Race-to-the-Bottom"
 collection: portfolio
-permalink: /portfolio/2025-01-01-does-integrating-environmental-protection-in-cadre-evaluation-system-mitigate-the-race-to-the-bottom-competition
+permalink: /portfolio/2025-01-01-rewriting-the-contract-how-bureaucratic-incentives-ended-china-s-race-to-the-bottom
 excerpt: "Integrating environmental criteria in cadre evaluation reduces race-to-the-bottom land pricing; monitoring pressure lessens low-price conveyance."
 venue: "Regional Science and Urban Economics"
 status: "Under Review"

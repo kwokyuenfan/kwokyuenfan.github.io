@@ -1,180 +1,216 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kwok Yuen Fan",
+    "label": "Assistant Professor of Economics and Finance",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "terrilfan@outlook.com",
+    "phone": "",
+    "summary": "Assistant Professor of Economics and Finance at The Hang Seng University of Hong Kong (HSUHK). Research uses Corporate Finance as a lens to examine how firms balance economic gains with social welfare, focusing on sustainability, real estate, and corporate finance.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Hong Kong",
+      "countryCode": "CN",
+      "region": "China"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "kwokyuenfan",
+        "url": "https://github.com/kwokyuenfan"
+      },
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=qc6CJjYAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "url": "https://orcid.org/0000-0002-1790-213X"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
+      "name": "The Hang Seng University of Hong Kong (HSUHK)",
+      "position": "Assistant Professor of Economics and Finance",
+      "location": "Hong Kong, China",
+      "startDate": "2025-09-01",
+      "endDate": "",
+      "summary": "Department of Economics and Finance.",
+      "highlights": []
     },
     {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
+      "name": "Beijing Normal-Hong Kong Baptist University (BNBU)",
+      "position": "Assistant Professor of Finance",
+      "location": "Zhuhai, China",
+      "startDate": "2023-09-01",
+      "endDate": "2025-08-01",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
+      "name": "The Hong Kong Polytechnic University",
+      "position": "Research Assistant",
+      "location": "Hong Kong, China",
+      "startDate": "2019-01-01",
+      "endDate": "2020-01-01",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "name": "The Hang Seng University of Hong Kong",
+      "position": "Research Assistant",
+      "location": "Hong Kong, China",
+      "startDate": "2018-01-01",
+      "endDate": "2019-01-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Deloitte Touche Tohmatsu",
+      "position": "Industry Experience",
+      "location": "",
+      "startDate": "2018-01-01",
+      "endDate": "2018-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "Baidu",
+      "position": "Industry Experience",
+      "location": "",
+      "startDate": "2016-01-01",
+      "endDate": "2016-12-01",
+      "summary": "",
+      "highlights": []
+    },
+    {
+      "name": "GoGoX",
+      "position": "Industry Experience",
+      "location": "",
+      "startDate": "2015-01-01",
+      "endDate": "2015-12-01",
       "summary": "",
       "highlights": []
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
-    },
-    {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
+      "institution": "The Hong Kong Polytechnic University",
+      "location": "Hong Kong, China",
+      "area": "Real Estate Economics",
+      "studyType": "Ph.D.",
+      "startDate": "2020-01-01",
+      "endDate": "2023-12-01",
       "score": "",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Dissertation: Institutional designs and environmental governance",
+        "Committee: Jeff Jianfu Shen (Advisor), Eddie C.M. Hui (Advisor), Helen Bao (Cambridge), Desmond Tsang (CUHK)"
+      ]
+    },
+    {
+      "institution": "Nanyang Technological University",
+      "location": "Singapore",
+      "area": "Nanyang Business School",
+      "studyType": "Visiting Research Student",
+      "startDate": "2023-03-01",
+      "endDate": "2023-05-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
+    },
+    {
+      "institution": "Lancaster University",
+      "location": "United Kingdom",
+      "area": "Advanced Financial Analysis",
+      "studyType": "M.Sc.",
+      "startDate": "2017-01-01",
+      "endDate": "2018-12-01",
+      "score": "Distinction",
+      "courses": [],
+      "highlights": ["Graduated with Distinction"]
+    },
+    {
+      "institution": "The Hang Seng University of Hong Kong",
+      "location": "Hong Kong, China",
+      "area": "Business Administration (AACSB-accredited)",
+      "studyType": "B.B.A.",
+      "startDate": "2012-01-01",
+      "endDate": "2016-12-01",
+      "score": "",
+      "courses": [],
+      "highlights": []
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "3rd IETI PhD Fellowship Award",
+      "date": "2024-01-01",
+      "awarder": "IETI",
+      "summary": ""
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
-      "summary": ""
+      "title": "Best Conference Paper Prize — China Real Estate Academic Annual Conference",
+      "date": "2024-01-01",
+      "awarder": "CREAAC",
+      "summary": "Paper: An Institutional Perspective of Selective ESG Engagement"
+    },
+    {
+      "title": "Best Conference Paper Prize — China Real Estate Academic Annual Conference",
+      "date": "2023-01-01",
+      "awarder": "CREAAC",
+      "summary": "Paper: The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong"
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Financial Risk Manager (FRM)",
+      "date": "",
+      "issuer": "GARP",
+      "icon": ""
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "name": "Passed CFA Level III",
+      "date": "",
+      "issuer": "CFA Institute",
+      "icon": ""
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "name": "Ronald Coase Institute Workshop Alumni",
+      "date": "",
+      "issuer": "Ronald Coase Institute",
+      "icon": ""
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
+  "publications": [],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Research Areas",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Sustainability",
+        "Real Estate Economics",
+        "Corporate Finance",
+        "Climate Finance",
+        "ESG",
+        "Environmental Economics",
+        "Green Building",
+        "Fintech"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Chinese (Cantonese)",
       "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Chinese (Mandarin)",
+      "fluency": "Fluent",
       "icon": ""
     },
     {
@@ -185,37 +221,42 @@
   ],
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "name": "Sustainability",
+      "icon": "",
+      "keywords": ["Climate change", "Biodiversity", "Greenwashing"]
+    },
+    {
+      "name": "Real Estate",
+      "icon": "",
+      "keywords": ["Climate resilience", "Green buildings", "Land"]
+    },
+    {
+      "name": "Corporate Finance",
+      "icon": "",
+      "keywords": ["Fintech", "Blended Finance", "Political Economy"]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Jeff Jianfu Shen",
+      "icon": "",
+      "reference": "PhD Supervisor. Associate Professor, Department of Building & Real Estate, The Hong Kong Polytechnic University. jeff.jf.shen@polyu.edu.hk"
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Eddie C.M. Hui",
+      "icon": "",
+      "reference": "PhD Supervisor. Chair Professor, Department Head, Department of Public and International Affairs, City University of Hong Kong. chimhui@cityu.edu.hk"
+    },
+    {
+      "name": "Xin Chang",
+      "icon": "",
+      "reference": "Professor, Associate Dean (Research), Nanyang Business School, Nanyang Technological University. changxin@ntu.edu.sg"
+    },
+    {
+      "name": "Weimin Liu",
+      "icon": "",
+      "reference": "Chair Professor, Associate Dean, Faculty of Business and Management, Beijing Normal - Hong Kong Baptist University. weiminliu@uic.edu.cn"
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
-    }
-  ]
+  "projects": []
 }

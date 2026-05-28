@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: Assistant Professor of Economics and Finance at <a href="https://www.hsu.edu.hk">The Hang Seng University of Hong Kong</a>
+description: Kwok Yuen (K.Y.) Fan is an Assistant Professor of Economics and Finance at HSUHK. Research in sustainability, real estate, and corporate finance.
 
 profile:
   align: right

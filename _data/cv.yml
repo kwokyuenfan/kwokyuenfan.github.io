@@ -1,20 +1,157 @@
 cv:
   name: Kwok Yuen Fan
-  label: Developer & Researcher
-  email: kwokyuenfan@example.com
-  location: ""
-  image: ""
-  summary: ""
-
-  social_networks:
-    - network: GitHub
-      username: kwokyuenfan
+  label: Assistant Professor of Economics and Finance
+  email: kwokyuenfan@uic.edu.cn
+  address:
+    city: Hong Kong
+    region: China
+  website: https://kwokyuenfan.github.io
+  summary: >
+    Assistant Professor of Economics and Finance at The Hang Seng University of Hong Kong (HSUHK).
+    My research uses Corporate Finance as a lens to examine how firms balance economic gains with social welfare,
+    with a focus on sustainability, real estate, and corporate finance. My work spans ESG engagement in REITs,
+    the political economy of pollution, and climate resilience in property markets.
 
   sections:
-    Education: []
-    Experience: []
-    Awards: []
-    Publications: []
-    Skills: []
-    Languages: []
-    Interests: []
+    Education:
+      - institution: The Hong Kong Polytechnic University
+        area: Real Estate Economics
+        studyType: Ph.D.
+        start_date: 2020
+        end_date: 2023
+        location: Hong Kong, China
+        highlights:
+          - "Dissertation: Institutional designs and environmental governance"
+          - "Committee: Jeff Jianfu Shen (Advisor), Eddie C.M. Hui (Advisor), Helen Bao (Cambridge), Desmond Tsang (CUHK)"
+      - institution: Nanyang Technological University
+        area: Nanyang Business School
+        studyType: Visiting Research Student
+        start_date: 2023-03
+        end_date: 2023-05
+        location: Singapore
+      - institution: Lancaster University
+        area: Advanced Financial Analysis
+        studyType: M.Sc.
+        start_date: 2017
+        end_date: 2018
+        location: United Kingdom
+        highlights:
+          - Graduated with Distinction
+      - institution: The Hang Seng University of Hong Kong
+        area: Business Administration (AACSB-accredited)
+        studyType: B.B.A.
+        start_date: 2012
+        end_date: 2016
+        location: Hong Kong, China
+
+    Experience:
+      - company: The Hang Seng University of Hong Kong (HSUHK)
+        position: Assistant Professor of Economics and Finance
+        start_date: 2025-09
+        end_date: Present
+        location: Hong Kong, China
+      - company: Beijing Normal-Hong Kong Baptist University (BNBU)
+        position: Assistant Professor of Finance
+        start_date: 2023-09
+        end_date: 2025-08
+        location: Zhuhai, China
+      - company: The Hong Kong Polytechnic University
+        position: Research Assistant
+        start_date: 2019
+        end_date: 2020
+        location: Hong Kong, China
+      - company: The Hang Seng University of Hong Kong
+        position: Research Assistant
+        start_date: 2018
+        end_date: 2019
+        location: Hong Kong, China
+      - company: Deloitte Touche Tohmatsu
+        position: Industry Experience
+        start_date: 2018
+        end_date: 2018
+      - company: Baidu
+        position: Industry Experience
+        start_date: 2016
+        end_date: 2016
+      - company: GoGoX
+        position: Industry Experience
+        start_date: 2015
+        end_date: 2015
+
+    Teaching:
+      - position: Lecturer, Financial Forecasting
+        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        start_date: 2025
+        end_date: 2025
+        summary: "4.97/5.00"
+      - position: Lecturer, Business Research Method
+        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        start_date: 2024
+        end_date: 2024
+        summary: "4.89/5.00"
+      - position: Lecturer, Financial Management
+        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        start_date: 2024
+        end_date: 2024
+        summary: "4.96/5.00"
+      - position: Lecturer, Corporate Finance
+        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        start_date: 2024
+        end_date: 2024
+        summary: "4.76/5.00"
+      - position: Lecturer, Multinational Finance
+        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        start_date: 2023
+        end_date: 2023
+        summary: "4.93/5.00"
+      - position: Tutor, Construction Economics
+        institution: The Hong Kong Polytechnic University
+        start_date: 2023
+        end_date: 2023
+      - position: Tutor, Construction Economics
+        institution: The Hong Kong Polytechnic University
+        start_date: 2022
+        end_date: 2022
+      - position: Tutor, Business Valuation and Accounts
+        institution: The Hong Kong Polytechnic University
+        start_date: 2022
+        end_date: 2022
+
+    Awards:
+      - title: 3rd IETI PhD Fellowship Award
+        date: 2024
+      - title: Best Conference Paper Prize
+        date: 2024
+        summary: "China Real Estate Academic Annual Conference — Paper: An Institutional Perspective of Selective ESG Engagement"
+      - title: Best Conference Paper Prize
+        date: 2023
+        summary: "China Real Estate Academic Annual Conference (CREAAC) — Paper: The Value of Sustainable Property Management in Real Estate"
+
+    Professional Service:
+      - role: Ad-hoc Reviewer
+        venues:
+          - Business Strategy and the Environment (2025)
+          - World Development (2024)
+          - Research in International Business and Finance (2024)
+          - Journal of Research in Interactive Marketing (2024)
+          - Asian Journal of Accounting Research (2024)
+          - Frontier of Health Economics (2024)
+
+    Certificates:
+      - name: Ronald Coase Institute Workshop Alumni
+      - name: Passed CFA Level III
+      - name: Passed FRM Part II
+
+    References:
+      - name: Jeff Jianfu Shen
+        description: PhD Supervisor, Associate Professor, Department of Building & Real Estate, The Hong Kong Polytechnic University
+        email: jeff.jf.shen@polyu.edu.hk
+      - name: Eddie C.M. Hui
+        description: PhD Supervisor, Chair Professor, Department Head, Department of Public and International Affairs, City University of Hong Kong
+        email: chimhui@cityu.edu.hk
+      - name: Xin Chang
+        description: Professor, Associate Dean (Research), Nanyang Business School, Nanyang Technological University
+        email: changxin@ntu.edu.sg
+      - name: Weimin Liu
+        description: Chair Professor, Associate Dean, Faculty of Business and Management, Beijing Normal - Hong Kong Baptist University
+        email: weiminliu@uic.edu.cn

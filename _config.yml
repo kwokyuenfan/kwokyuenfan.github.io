@@ -4,10 +4,9 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Kwok Yuen
-middle_name: ""
 last_name: Fan
 contact_note: >
-  A passionate developer and researcher.
+  Kwok Yuen Fan — Assistant Professor of Economics and Finance
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Personal website of Kwok Yuen Fan — a space for projects, research, and ideas.
 footer_text: >
@@ -221,8 +220,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
-  - purgecss.config.js
+  - readme_preview/
   - README.md
   - readme_preview/
   - kwokyuenfan.github.io-main/

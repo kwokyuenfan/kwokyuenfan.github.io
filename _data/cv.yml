@@ -84,104 +84,34 @@ cv:
         end_date: 2015
 
     Teaching:
-      - position: Lecturer, Urban and Real Estate Economics
-        company: The Hang Seng University of Hong Kong
-        start_date: 2025
-        end_date: 2025
-        summary: "5.80/6.00"
-      - position: Lecturer, Business Economics I
-        company: The Hang Seng University of Hong Kong
-        start_date: 2025
-        end_date: 2025
-        summary: "5.70/6.00"
-      - position: Lecturer, Financial Forecasting
-        company: Beijing Normal University - Hong Kong Baptist University United International College
-        start_date: 2025
-        end_date: 2025
-        summary: "4.97/5.00"
-      - position: Lecturer, Business Research Method
-        company: Beijing Normal University - Hong Kong Baptist University United International College
-        start_date: 2024
-        end_date: 2024
-        summary: "4.89/5.00"
-      - position: Lecturer, Financial Management
-        company: Beijing Normal University - Hong Kong Baptist University United International College
-        start_date: 2024
-        end_date: 2024
-        summary: "4.96/5.00"
-      - position: Lecturer, Corporate Finance
-        company: Beijing Normal University - Hong Kong Baptist University United International College
-        start_date: 2024
-        end_date: 2024
-        summary: "4.76/5.00"
-      - position: Lecturer, Multinational Finance
-        company: Beijing Normal University - Hong Kong Baptist University United International College
-        start_date: 2023
-        end_date: 2023
-        summary: "4.93/5.00"
-      - position: Tutor, Construction Economics
-        company: The Hong Kong Polytechnic University
-        start_date: 2023
-        end_date: 2023
-      - position: Tutor, Construction Economics
-        company: The Hong Kong Polytechnic University
-        start_date: 2022
-        end_date: 2022
-      - position: Tutor, Business Valuation and Accounts
-        company: The Hong Kong Polytechnic University
-        start_date: 2022
-        end_date: 2022
+      - bullet: "**2025** — *Lecturer*, Urban and Real Estate Economics, The Hang Seng University of Hong Kong (Rating: 5.80/6.00)"
+      - bullet: "**2025** — *Lecturer*, Business Economics I, The Hang Seng University of Hong Kong (Rating: 5.70/6.00)"
+      - bullet: "**2025** — *Lecturer*, Financial Forecasting, Beijing Normal University – Hong Kong Baptist University United International College (Rating: 4.97/5.00)"
+      - bullet: "**2024** — *Lecturer*, Business Research Method, Beijing Normal University – Hong Kong Baptist University United International College (Rating: 4.89/5.00)"
+      - bullet: "**2024** — *Lecturer*, Financial Management, Beijing Normal University – Hong Kong Baptist University United International College (Rating: 4.96/5.00)"
+      - bullet: "**2024** — *Lecturer*, Corporate Finance, Beijing Normal University – Hong Kong Baptist University United International College (Rating: 4.76/5.00)"
+      - bullet: "**2023** — *Lecturer*, Multinational Finance, Beijing Normal University – Hong Kong Baptist University United International College (Rating: 4.93/5.00)"
+      - bullet: "**2023** — *Tutor*, Construction Economics, The Hong Kong Polytechnic University"
+      - bullet: "**2022** — *Tutor*, Construction Economics, The Hong Kong Polytechnic University"
+      - bullet: "**2022** — *Tutor*, Business Valuation and Accounts, The Hong Kong Polytechnic University"
 
     Conference Presentations:
-      - event: China Business Forum
-        title: "Climate Lobbying under uncertainty: Corporate Strategies and consequences"
-        date: 2026
-      - event: Research Centre for Green Business (RCGB) Conference
-        title: "Saving Planet Earth or Maximizing Financial Gains: A Global Analysis of Carbon Emissions"
-        date: 2025
-      - event: China Real Estate Academic Annual Conference
-        title: "The Patient Capital Catalyst: Government Support and Global Green Real Estate Projects"
-        date: 2025
-      - event: ERES Annual Conference
-        title: "Climate Risk and Green Transformation in Real Estate Sector"
-        date: 2025
-      - event: AsRES-GCREC & AREUEA Joint International Real Estate Annual Conference
-        title: "Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition?"
-        date: 2024
-      - event: Asian Finance Association (AsianFA) Annual Conference
-        title: "Environmental Regulatory Independence and Corporate Environmental Performance"
-        date: 2024
-      - event: International Conference on Computational Social Sciences and Sustainability
-        title: "Regulatory Arbitrage by Governments and Land Conveyance"
-        date: 2024
-      - event: AsRES-GCREC & AREUEA Joint International Real Estate Annual Conference
-        title: "The Price of Pandemic Fear in the Residential Rental Market: Evidence from Hong Kong"
-        date: 2024
-      - event: China Real Estate Academic Annual Conference
-        title: "An Institutional Perspective of Selective ESG Engagement"
-        date: 2024
-      - event: International Workshop on Regional, Urban, and Spatial Economics in China
-        title: "Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition?"
-        date: 2024
-      - event: China Real Estate Academic Annual Conference
-        title: "The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong"
-        date: 2023
-      - event: AsRES-GCREC Joint International Real Estate Conference
-        title: "Environmental Materiality in ESG Strategy: A REIT Perspective"
-        date: 2023
-        summary: "Keynote speech"
-      - event: AsRES-GCREC Joint International Real Estate Conference
-        title: "Developer's ESG Reputation Concern and Green Building Development"
-        date: 2023
-      - event: New Zealand Finance Meeting
-        title: "ESG components and equity returns: Evidence from real estate investment trusts"
-        date: 2022
-      - event: Coase Institute Webworkshop
-        title: "Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition?"
-        date: 2022
-      - event: Academy of International Business Southeast Asia Regional (AIBSEAR) Conference
-        title: "The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts"
-        date: 2020
+      - bullet: "**2026** — *Climate Lobbying under uncertainty: Corporate Strategies and consequences*, China Business Forum"
+      - bullet: "**2025** — *Saving Planet Earth or Maximizing Financial Gains: A Global Analysis of Carbon Emissions*, Research Centre for Green Business (RCGB) Conference"
+      - bullet: "**2025** — *The Patient Capital Catalyst: Government Support and Global Green Real Estate Projects*, China Real Estate Academic Annual Conference"
+      - bullet: "**2025** — *Climate Risk and Green Transformation in Real Estate Sector*, ERES Annual Conference"
+      - bullet: "**2024** — *Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition?*, AsRES-GCREC & AREUEA Joint International Real Estate Annual Conference"
+      - bullet: "**2024** — *Environmental Regulatory Independence and Corporate Environmental Performance*, Asian Finance Association (AsianFA) Annual Conference"
+      - bullet: "**2024** — *Regulatory Arbitrage by Governments and Land Conveyance*, International Conference on Computational Social Sciences and Sustainability"
+      - bullet: "**2024** — *The Price of Pandemic Fear in the Residential Rental Market: Evidence from Hong Kong*, AsRES-GCREC & AREUEA Joint International Real Estate Annual Conference"
+      - bullet: "**2024** — *An Institutional Perspective of Selective ESG Engagement*, China Real Estate Academic Annual Conference"
+      - bullet: "**2024** — *Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition?*, International Workshop on Regional, Urban, and Spatial Economics in China"
+      - bullet: "**2023** — *The Value of Sustainable Property Management in Real Estate: Evidence from Hong Kong*, China Real Estate Academic Annual Conference"
+      - bullet: "**2023** — *Environmental Materiality in ESG Strategy: A REIT Perspective*, AsRES-GCREC Joint International Real Estate Conference (Keynote speech)"
+      - bullet: "**2023** — *Developer's ESG Reputation Concern and Green Building Development*, AsRES-GCREC Joint International Real Estate Conference"
+      - bullet: "**2022** — *ESG components and equity returns: Evidence from real estate investment trusts*, New Zealand Finance Meeting"
+      - bullet: "**2022** — *Does integrating environmental protection in cadre evaluation system mitigate the race-to-the-bottom competition?*, Coase Institute Webworkshop"
+      - bullet: "**2020** — *The Valuation Effect and Consequences of Clawback Adoption in Real Estate Investment Trusts*, Academy of International Business Southeast Asia Regional (AIBSEAR) Conference"
 
     Awards:
       - title: 3rd IETI PhD Fellowship Award

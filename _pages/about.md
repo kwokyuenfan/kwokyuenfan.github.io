@@ -39,15 +39,17 @@ This question brought me back to the skylines I grew up admiring. While witnessi
 
 I pivoted to academia to reconcile my Marketing roots (the promise of a better world) with my Finance training (the constraints of capital). Today, I use Corporate Finance as a lens to examine how firms balance economic gains with social welfare. I dig into the data to determine how we can redesign financial incentives so that the real estate sector accounts for its externalities — transforming environmental justice from a marketing slogan into a financial reality.
 
+Increasingly, my workflow and research questions are shaped by the rise of AI. I use frontier LLMs as daily infrastructure for reading, coding, and exploring data, and I bring this computational lens to the problems I care about: how AI reshapes economic incentives, how it redistributes risk and returns, and whether it helps or hinders the green transition. I want to work at the boundary where models meet real economic decisions — because that is where both the intellectual frontier and the practical impact lie.
+
 ## Research Interests
 
 My research focuses on three interconnected areas:
 
 ### 1. Sustainability
-Climate change, Biodiversity, Greenwashing
+Climate change, Biodiversity, Greenwashing, AI and the green transition
 
 ### 2. Real Estate
 Climate resilience, Green buildings, Land
 
 ### 3. Corporate Finance
-Fintech, Blended Finance, Political Economy
+Fintech, Blended Finance, Political Economy, AI and financial markets

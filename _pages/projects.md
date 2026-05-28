@@ -5,7 +5,7 @@ permalink: /projects/
 description: Current working papers and research in progress.
 nav: true
 nav_order: 3
-display_categories: [sustainability, climate, fintech]
+display_categories: [climate, real_estate, household]
 horizontal: false
 ---
 <!-- _pages/projects.md -->

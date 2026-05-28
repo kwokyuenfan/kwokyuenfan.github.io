@@ -9,6 +9,6 @@ Climate Lobbying Under Uncertainty: Corporate Strategies and Consequences
 
 with Jianfu Shen and Daoju Peng
 
-*Target: Journal of Corporate Finance*
+*Expected to be submitted to Journal of Corporate Finance*
 
 This study investigates how regulatory uncertainty shapes corporate climate lobbying strategies and examines the financial and environmental consequences of these strategic choices.

@@ -80,40 +80,40 @@ cv:
 
     Teaching:
       - position: Lecturer, Financial Forecasting
-        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        company: Beijing Normal University - Hong Kong Baptist University United International College
         start_date: 2025
         end_date: 2025
         summary: "4.97/5.00"
       - position: Lecturer, Business Research Method
-        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        company: Beijing Normal University - Hong Kong Baptist University United International College
         start_date: 2024
         end_date: 2024
         summary: "4.89/5.00"
       - position: Lecturer, Financial Management
-        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        company: Beijing Normal University - Hong Kong Baptist University United International College
         start_date: 2024
         end_date: 2024
         summary: "4.96/5.00"
       - position: Lecturer, Corporate Finance
-        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        company: Beijing Normal University - Hong Kong Baptist University United International College
         start_date: 2024
         end_date: 2024
         summary: "4.76/5.00"
       - position: Lecturer, Multinational Finance
-        institution: Beijing Normal University - Hong Kong Baptist University United International College
+        company: Beijing Normal University - Hong Kong Baptist University United International College
         start_date: 2023
         end_date: 2023
         summary: "4.93/5.00"
       - position: Tutor, Construction Economics
-        institution: The Hong Kong Polytechnic University
+        company: The Hong Kong Polytechnic University
         start_date: 2023
         end_date: 2023
       - position: Tutor, Construction Economics
-        institution: The Hong Kong Polytechnic University
+        company: The Hong Kong Polytechnic University
         start_date: 2022
         end_date: 2022
       - position: Tutor, Business Valuation and Accounts
-        institution: The Hong Kong Polytechnic University
+        company: The Hong Kong Polytechnic University
         start_date: 2022
         end_date: 2022
 
@@ -128,14 +128,12 @@ cv:
         summary: "China Real Estate Academic Annual Conference (CREAAC) — Paper: The Value of Sustainable Property Management in Real Estate"
 
     Professional Service:
-      - role: Ad-hoc Reviewer
-        venues:
-          - Business Strategy and the Environment (2025)
-          - World Development (2024)
-          - Research in International Business and Finance (2024)
-          - Journal of Research in Interactive Marketing (2024)
-          - Asian Journal of Accounting Research (2024)
-          - Frontier of Health Economics (2024)
+      - bullet: Ad-hoc Reviewer for Business Strategy and the Environment (2025)
+      - bullet: Ad-hoc Reviewer for World Development (2024)
+      - bullet: Ad-hoc Reviewer for Research in International Business and Finance (2024)
+      - bullet: Ad-hoc Reviewer for Journal of Research in Interactive Marketing (2024)
+      - bullet: Ad-hoc Reviewer for Asian Journal of Accounting Research (2024)
+      - bullet: Ad-hoc Reviewer for Frontier of Health Economics (2024)
 
     Certificates:
       - name: Ronald Coase Institute Workshop Alumni
@@ -144,14 +142,10 @@ cv:
 
     References:
       - name: Jeff Jianfu Shen
-        description: PhD Supervisor, Associate Professor, Department of Building & Real Estate, The Hong Kong Polytechnic University
-        email: jeff.jf.shen@polyu.edu.hk
+        reference: "PhD Supervisor. Associate Professor, Department of Building & Real Estate, The Hong Kong Polytechnic University. jeff.jf.shen@polyu.edu.hk"
       - name: Eddie C.M. Hui
-        description: PhD Supervisor, Chair Professor, Department Head, Department of Public and International Affairs, City University of Hong Kong
-        email: chimhui@cityu.edu.hk
+        reference: "PhD Supervisor. Chair Professor, Department Head, Department of Public and International Affairs, City University of Hong Kong. chimhui@cityu.edu.hk"
       - name: Xin Chang
-        description: Professor, Associate Dean (Research), Nanyang Business School, Nanyang Technological University
-        email: changxin@ntu.edu.sg
+        reference: "Professor, Associate Dean (Research), Nanyang Business School, Nanyang Technological University. changxin@ntu.edu.sg"
       - name: Weimin Liu
-        description: Chair Professor, Associate Dean, Faculty of Business and Management, Beijing Normal - Hong Kong Baptist University
-        email: weiminliu@uic.edu.cn
+        reference: "Chair Professor, Associate Dean, Faculty of Business and Management, Beijing Normal - Hong Kong Baptist University. weiminliu@uic.edu.cn"

@@ -14,9 +14,13 @@ on:
       - "package.json"
       - "package-lock.json"
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    # Only runs in the upstream al-folio repo
     if: github.repository_owner == 'alshedivat'
 
     steps:

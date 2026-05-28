@@ -225,6 +225,7 @@ exclude:
   - purgecss.config.js
   - README.md
   - readme_preview/
+  - kwokyuenfan.github.io-main/
   - gems/
   - migrations/
   - vendor

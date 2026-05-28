@@ -2,7 +2,7 @@
 layout: page
 title: Belief, Trust, and Green Innovation
 description: The role of community and institutional trust in driving entrepreneurial green innovation.
-category: climate
+category: Climate
 importance: 1
 ---
 Belief to Behavior: The Role of Community and Institutional Trust in Driving Entrepreneurial Green Innovation

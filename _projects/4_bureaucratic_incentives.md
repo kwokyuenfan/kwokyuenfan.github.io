@@ -2,7 +2,7 @@
 layout: page
 title: Bureaucratic Incentives and Environmental Competition
 description: How integrating environmental protection into cadre evaluation ended China's race-to-the-bottom competition.
-category: real_estate
+category: Real Estate
 importance: 1
 ---
 Rewriting the Contract: How Bureaucratic Incentives Ended China's Race-to-the-Bottom

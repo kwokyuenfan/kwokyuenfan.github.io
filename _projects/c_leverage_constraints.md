@@ -2,7 +2,7 @@
 layout: page
 title: Leverage Constraints and Financial Manipulation
 description: Examining the relationship between leverage constraints and financial manipulation in the real estate sector.
-category: real_estate
+category: Real Estate
 importance: 5
 ---
 Leverage Constraints and Financial Manipulation in the Real Estate Sector

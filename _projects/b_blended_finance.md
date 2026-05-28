@@ -2,7 +2,7 @@
 layout: page
 title: Blended Finance in Global Infrastructure
 description: Investigating the role of blended finance in funding global infrastructure projects.
-category: real_estate
+category: Real Estate
 importance: 4
 ---
 Blended Finance in Global Infrastructure Projects

@@ -2,7 +2,7 @@
 layout: page
 title: ESG Arbitrage and Environmental Outcomes
 description: Examining whether REITs use ESG strategically and the real environmental consequences.
-category: real_estate
+category: Real Estate
 importance: 3
 ---
 ESG Arbitrage and Environmental Outcomes in REITs

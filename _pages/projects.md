@@ -1,11 +1,11 @@
 ---
 layout: page
-title: working papers
+title: Working Papers
 permalink: /projects/
 description: Current working papers and research in progress.
 nav: true
 nav_order: 3
-display_categories: [climate, real_estate, household]
+display_categories: [Climate, Real Estate, Household]
 horizontal: false
 ---
 <!-- _pages/projects.md -->

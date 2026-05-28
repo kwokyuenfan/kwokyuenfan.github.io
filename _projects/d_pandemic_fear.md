@@ -2,7 +2,7 @@
 layout: page
 title: Pandemic Fear and Rental Markets
 description: The price of pandemic fear in the residential rental market — evidence from Hong Kong.
-category: real_estate
+category: Real Estate
 importance: 7
 ---
 The Price of Pandemic Fear in the Residential Rental Market: Evidence from Hong Kong

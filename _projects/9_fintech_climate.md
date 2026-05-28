@@ -2,7 +2,7 @@
 layout: page
 title: Fintech and Household Climate Resilience
 description: Investigating whether fintech can enhance household resilience to climate-related shocks.
-category: household
+category: Household
 importance: 1
 ---
 Can Fintech Enhance Household Climate Resilience? Evidence from P2P Lending Platforms

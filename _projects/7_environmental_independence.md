@@ -2,7 +2,7 @@
 layout: page
 title: Environmental Regulatory Independence
 description: The impact of environmental regulatory independence on corporate environmental performance in China.
-category: climate
+category: Climate
 importance: 2
 ---
 Environmental Regulatory Independence and Corporate Environmental Performance

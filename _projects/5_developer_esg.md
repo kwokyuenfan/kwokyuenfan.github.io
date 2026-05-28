@@ -2,7 +2,7 @@
 layout: page
 title: Developer ESG and Green Buildings
 description: Examining how developers' ESG reputation concerns drive green building development.
-category: real_estate
+category: Real Estate
 importance: 6
 ---
 Developer's ESG Reputation Concern and Green Building Development

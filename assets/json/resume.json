@@ -15,17 +15,12 @@
     },
     "profiles": [
       {
-        "network": "GitHub",
-        "username": "kwokyuenfan",
-        "url": "https://github.com/kwokyuenfan"
-      },
-      {
         "network": "Google Scholar",
-        "url": "https://scholar.google.com/citations?user=qc6CJjYAAAAJ"
+        "url": "https://scholar.google.com/citations?user=oab8NDUAAAAJ&hl=zh-CN"
       },
       {
         "network": "ORCID",
-        "url": "https://orcid.org/0000-0002-1790-213X"
+        "url": "https://orcid.org/0000-0001-7756-2464"
       }
     ]
   },

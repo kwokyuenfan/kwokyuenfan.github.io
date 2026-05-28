@@ -2,7 +2,7 @@
 layout: page
 title: Regulatory Arbitrage by Governments
 description: Investigating how local governments strategically respond to imbalanced environmental regulations in land conveyance.
-category: real_estate
+category: Real Estate
 importance: 2
 ---
 Regulatory Arbitrage by Governments and Land Conveyance

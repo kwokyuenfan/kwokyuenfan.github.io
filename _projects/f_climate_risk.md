@@ -2,7 +2,7 @@
 layout: page
 title: Climate Risk and Real Estate Transformation
 description: Examining climate risk as a driver of green transformation in the real estate sector.
-category: real_estate
+category: Real Estate
 importance: 9
 ---
 Climate Risk and Green Transformation in Real Estate Sector

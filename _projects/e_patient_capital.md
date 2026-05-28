@@ -2,7 +2,7 @@
 layout: page
 title: Patient Capital and Green Real Estate
 description: How government support catalyzes global green real estate projects through patient capital.
-category: real_estate
+category: Real Estate
 importance: 8
 ---
 The Patient Capital Catalyst: Government Support and Global Green Real Estate Projects

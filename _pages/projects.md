@@ -5,7 +5,7 @@ permalink: /projects/
 description: Current working papers and research in progress.
 nav: true
 nav_order: 3
-display_categories: [Climate, Real Estate, Household]
+display_categories: [Climate, Real Estate, Household, Academic Integrity]
 horizontal: false
 ---
 <!-- _pages/projects.md -->

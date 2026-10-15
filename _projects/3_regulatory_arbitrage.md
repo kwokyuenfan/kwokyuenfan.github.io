@@ -7,8 +7,8 @@ importance: 2
 ---
 Regulatory Arbitrage by Governments and Land Conveyance
 
-with Eddie C.M. Hui, Lulu Pan, Jianfu Shen
+with Lulu Pan, Jianfu Shen, Eddie C.M. Hui, and Xin Lin
 
-*Regional Studies* — Under review
+*China Economic Review* — Under review
 
 Following the Clean Air Action 2013, counties bordering regions with stricter air pollution regulations conveyed more land to polluting industries. Land conveyance prices were strategically manipulated, indicating deliberate price reductions by local governments to attract polluting activities. This led to enhanced economic growth but exacerbated air pollution.

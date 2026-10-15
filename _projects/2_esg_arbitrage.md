@@ -1,14 +1,14 @@
 ---
 layout: page
-title: ESG Arbitrage and Environmental Outcomes
-description: Examining whether REITs use ESG strategically and the real environmental consequences.
+title: ESG Management and the Environmental Tradeoff in REITs
+description: Examining the environmental and financial tradeoff in REIT ESG management.
 category: Real Estate
 importance: 3
 ---
-ESG Arbitrage and Environmental Outcomes in REITs
+ESG Management and Environmental/Financial Tradeoff in REITs
 
 with Jianfu Shen, Louis T.W. Cheng, Kalok Chan and Eddie C.M. Hui
 
-*British Accounting Review* — Under review
+*International Review of Financial Analysis* — Under review
 
 This study examines the role of environmental materiality in ESG strategies adopted by REITs. Strategic ESG practices are associated with better financial performance but have adverse environmental consequences, resulting in increased greenhouse gas emissions and environmental damage costs.

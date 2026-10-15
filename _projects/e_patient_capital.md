@@ -9,6 +9,6 @@ The Patient Capital Catalyst: Government Support and Global Green Real Estate Pr
 
 with Ting Jiang, Jianfu Shen and Eddie C.M. Hui
 
-*Journal of Real Estate Finance and Economics* — Under review
+*Journal of Real Estate Finance and Economics* — Revise and resubmit
 
 This study examines how government-supported patient capital influences the development and outcomes of green real estate projects globally.

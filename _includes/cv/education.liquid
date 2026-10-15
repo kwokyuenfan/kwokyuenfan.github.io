@@ -3,16 +3,20 @@
   Fixes:
   - Empty location row no longer renders an orphan icon (strip whitespace from capture).
   - Year badge and location marker share the same horizontal anchor so they line up.
+  - A point-in-time `date` or `releaseDate` still renders a year badge (al_folio_cv 1.0.2).
 {% endcomment %}
 
 <ul class="card-text font-weight-light list-group list-group-flush">
   {% for entry in entries %}
     {% assign start_raw = entry.start_date | default: entry.startDate %}
     {% assign end_raw = entry.end_date | default: entry.endDate %}
+    {% assign point_raw = entry.date | default: entry.releaseDate %}
     {% if start_raw %}
       {% assign startDate = start_raw | split: '-' | first %}
       {% assign endDate = end_raw | split: '-' | first | default: 'Present' %}
       {% assign date = startDate | append: ' - ' | append: endDate %}
+    {% elsif point_raw %}
+      {% assign date = point_raw | split: '-' | first %}
     {% else %}
       {% assign date = '' %}
     {% endif %}
